@@ -1,0 +1,1381 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 TR" tvg-chno="1" channel-id="1" group-title="Turkey",TRT 1 
+https://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_1500_av-p.m3u8 
+
+#EXTINF:0 group-title="Turkey",Kanal D 
+http://soledge13.dogannet.tv/S2/HLS_LIVE/kanaldnp/track_4_1000/playlist.m3u8 
+
+#EXTINF:0 group-title="Turkey",Star 
+http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Turkey" tvg-logo="http://im.cinergroup.com.tr/2016/07/21/ver1507033009/1269866_320x180.jpg",SHOW TV 
+http://umutiptv.cf/ciner.php?kanal=show&type=m3u8 
+
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Turkey" tvg-logo="https://www.fox.com.tr/img/FOXLogo.jpg",FOX 
+http://umutiptv.cf/fox.php?kanal=foxtr&type=m3u8 
+
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Turkey" tvg-logo="https://iatv.tmgrup.com.tr/2016/10/05/1475672802843.png",atv 
+http://live.netd.com.tr/S1/HLS_LIVE/atv/1000/prog_index.m3u8 
+
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Turkey" tvg-logo="https://img.tv8.com.tr/s/template/v2/img/tv8-logo.png",TV 8 
+http://umutiptv.cf/acun.php?kanal=tv8&type=m3u8 
+
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Turkey" tvg-logo="https://www.tlctv.com.tr/assets/theme/assets/images/logo.png",TLC 
+http://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8 
+
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Turkey" tvg-logo="https://www.dmax.com.tr/assets/theme/assets/images/logo.jpg",D MAX 
+https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8 
+
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Turkey" tvg-logo="http://mo.ciner.com.tr/showmax/iu/384x216/hayat-guzeldir.jpg",SHOW MAX 
+https://mn-nl.mncdn.com/showmax/smil:showmax.smil/chunklist_b1264000.m3u8 
+
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Turkey" tvg-logo="https://www.teve2.com.tr/assets/img/teve2logo.png",TEVE 2 
+http://soledge7.dogannet.tv/S1/HLS_LIVE/tv2/1500/prog_index.m3u8 
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Turkey",TRT World
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Romania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Logo_TVR_1_%282004%29.svg/1200px-Logo_TVR_1_%282004%29.svg.png",TVR 1 
+http://89.136.209.26:1935/liveedge/TVR1.stream/playlist.m3u8 
+
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Romania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Logo_TVR_2_%282004%29.svg/1200px-Logo_TVR_2_%282004%29.svg.png",TVR 2 
+http://89.136.209.26:1935/liveedge/TVR2.stream/playlist.m3u8 
+
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Romania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_TVR_3_%282013%29.svg/1200px-Logo_TVR_3_%282013%29.svg.png",TVR 3 
+http://89.136.209.26:1935/liveedge/TVR3.stream/playlist.m3u8 
+
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Romania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Logo_TVR_HD.svg/2000px-Logo_TVR_HD.svg.png",TVR HD 
+http://89.136.209.26:1935/liveedge/TVRHD.stream/playlist.m3u8 
+
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Romania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Logo_TVR_Interna%C8%9Bional_%282004%29.svg/1200px-Logo_TVR_Interna%C8%9Bional_%282004%29.svg.png",TVR International 
+https://d201h06fdwdct7.cloudfront.net/w2_tvr/ngrp:stream_all/playlist.m3u8 
+
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Romania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Logo_Pro_TV_Interna%C8%9Bional_%282017%29.svg/1200px-Logo_Pro_TV_Interna%C8%9Bional_%282017%29.svg.png",Pro TV International 
+https://d201h06fdwdct7.cloudfront.net/w2_protv/ngrp:stream_all/chunklist_b1396000.m3u8 
+
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Romania" tvg-logo="https://www.kanald.ro/imgs/icon.png",KANAL D 
+http://livefeed.kanald.ro/iphone/live.m3u8 
+
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Romania" tvg-logo="https://www.b1.ro/static/images/b1.jpg",B1 
+http://stream.adunity.com/b1/b1.m3u8 
+
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Romania" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/78/Antena_Stars.png/revision/latest?cb=20161213130140",Antena Monden Stars HD 
+http://stream1.antenaplay.ro/live/smil:AntenaMonden.smil/playlist.m3u8 
+
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Romania" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/08/Antena_International_HD.png/revision/latest?cb=20170731194730",Antena International 
+https://d201h06fdwdct7.cloudfront.net/antenainternational/ngrp:stream_all/chunklist_b946000.m3u8 
+
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Romania" tvg-logo="http://upload.wikimedia.org/wikipedia/en/thumb/0/02/National_TV.png/400px-National_TV.png",National TV 
+http://46.20.136.59/live3/_definst_/nationaltv/playlist.m3u8 
+
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Romania" tvg-logo="https://assets.realitatea.net/images/logo_realitatea.jpg",Realitatea 
+https://livestream.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8 
+
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Romania" tvg-logo="https://www.digi24.ro/static/theme-1616-repo/dist/assets/imgs/digi24.ro-logo.png",Digi 24 
+http://82.76.40.76/digi24edge/digi24hdhqhls/index.m3u8 
+
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Romania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Na%C8%9Bional_24_Plus.png",National 24 Plus 
+http://46.20.136.59/live3/_definst_/n24/playlist.m3u8 
+
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Romania" tvg-logo="https://img.digitalag.ro/?u=https%3A%2F%2Fa1.ro%2Fuploads%2Fmodules%2Fnews%2F0%2F2016%2F7%2F12%2F505638%2F14683266061c00965b.jpg&w=800",Comedy Play 
+http://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/chunklist_w899209015_b1000000.m3u8 
+
+#EXTINF:0 group-title="Romania", TVR Iasi 
+http://82.208.151.107:8088/high/tvriasi/index.m3u8 
+
+#EXTINF:0 group-title="Romania", TVR Cluj 
+http://89.136.209.26:1935/liveedge/TVRCLUJ.stream/playlist.m3u8 
+
+#EXTINF:0 group-title="Romania", TVR Craiova
+http://89.136.209.26:1935/liveedge/TVRCRAIOVA.stream/playlist.m3u8
+#EXTINF:0 group-title="Romania", TVR Tirgu Mures
+http://89.136.209.26:1935/liveedge/TVRTGMURES.stream/playlist.m3u8
+#EXTINF:0 group-title="Romania", TVR Timisoara
+http://89.136.209.26:1935/liveedge/TVRTIMISOARA.stream/playlist.m3u8
+  
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Romania" tvg-logo="https://assets.sport.ro/assets/protv/2012/07/25/image_galleries/26689/voyo-news-devine-canalul-de-stiri-online-protv-news_size23.jpg",Pro TV News 
+http://stream1.protv.ro/news/stream:1.stream/chunklist_w1582750279.m3u8 
+
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Romania" tvg-logo="http://lookplus.ro/wp-content/uploads/2018/09/lp-v-hd-tag-300px.png",Look Sport HD 
+http://193.239.252.15/live/hls/stream1_q2/index.m3u8 
+
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Romania" tvg-logo="http://lookplus.ro/wp-content/uploads/2018/09/lp-v-hd-tag-300px.png",Look Plus HD 
+http://193.239.252.15/live/hls/stream2_q2/index.m3u8 
+
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Romania" tvg-logo="http://www.tv-h.ro/wp-content/uploads/2016/10/LOGO-TVH.png",TVH 
+http://77.36.61.147/hls/channel7/adaptive.m3u8 
+
+#EXTINF:0 group-title="Romania",UTV 
+http://81.196.0.126/utvedge/utvlivehls/index.m3u8 
+
+#EXTINF:0 group-title="Romania",Hit Music 
+http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8 
+
+#EXTINF:0 group-title="Moldova", TV Moldova 1
+http://live.trm.md:1935/live/MoldovaUnu1/playlist.m3u8
+
+#EXTINF:0 group-title="Moldova", TV Moldova 2
+http://live.trm.md:1935/live/MoldovaDoi2/playlist.m3u8
+
+#EXTINF:0 group-title="Moldova", Accent TV
+http://video.a-tv.md/hls/accent.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Moldova" tvg-logo="http://m.protv.md/design/images/logo_17ani.png?v2",Pro TV Moldova 
+http://hls.protv.md/hls/protv.m3u8 
+
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Moldova" tvg-logo="https://media.publika.md/en/image/201806/full/logo-publika-tv-mare-16x9-logo-publikamd-logo-publika_00797000_84797600.jpg",Publika 
+http://livebeta.publika.md/LIVE/P/1000.m3u8 
+
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/7N6vZTd.jpg" group-title="Moldova",NTV
+http://93.115.137.166/hls/ntvm.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://live.moldova9.com/wp-content/uploads/ru-tv.png" group-title="Moldova",RUTV
+http://217.12.116.122/hls/rutv_direct.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://live.moldova9.com/wp-content/uploads/elita-tv-aici.png" group-title="Moldova",TV Elita
+http://46.55.111.242:8080/Rezina.m3u8
+
+#EXTINF:0 group-title="Moldova",NTV 
+http://93.115.137.166/hls/ntvm.m3u8 
+
+#EXTINF:0 group-title="Azerbaijan",Azad TV
+http://85.132.81.184:8080/atv/index.m3u8
+
+#EXTINF:0 group-title="Azerbaijan",Kepez TV
+http://85.132.81.184:8080/arbkepez/live/index.m3u8
+
+#EXTINF:0 group-title="Azerbaijan",GunAz (Azerbaijan)
+http://gtv.live-s.cdn.bitgravity.com/cdn-live/_definst_/gtv/live/multibitrate.smil/chunklist.m3u8
+
+#EXTINF:0 group-title="Azerbaijan",Muz TV
+http://85.132.78.6:1935/live/muztv.stream/playlist.m3u8
+
+#EXTINF:0 group-title="USA", ABC
+http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
+
+#EXTINF:0 group-title="USA", Action Max HD
+http://gorillaiptv.online:25461/live/dad123/dad123/80.m3u8
+
+#EXTINF:0 group-title="USA", Animal Planet
+http://80.80.160.168/live/1/live.m3u8
+
+#EXTINF:0 group-title="USA", Animal Planet
+http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8?fluxustv.m3u8
+
+#EXTINF:0 group-title="USA", FOX COMEDY
+http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
+
+#EXTINF:0 group-title="USA", FOX 5
+https://api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8
+
+#EXTINF:0 group-title="USA", NBC
+http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
+
+#EXTINF:0 group-title="USA", CBS News
+https://www.cbsnews.com/common/video/dai_prod.m3u8
+
+#EXTINF:0 group-title="USA", HBO 2
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+
+#EXTINF:0 group-title="USA",FOX MOVIES [AR]
+http://streaming.i-sat.tv:8081/livestream/fox/chunks.m3u8
+
+#EXTINF:0 group-title="USA", TLC
+http://80.80.160.168/live/2/live.m3u8
+
+#EXTINF:0 group-title="USA", Discovery Channel
+http://80.80.160.168/live/8/live.m3u8
+
+#EXTINF:0 group-title="USA", SHOWTIME HD
+http://80.80.160.168/live/7/live.m3u8
+
+#EXTINF:0 group-title="USA", ESPN
+http://80.80.160.168/live/6/live.m3u8
+
+#EXTINF:0 group-title="USA", Investigation Discovery
+http://80.80.160.168/live/5/live.m3u8
+
+#EXTINF:0 group-title="USA", CNN
+http://161.0.157.9/PLTV/88888888/224/3221226781/index.m3u8
+
+#EXTINF:0 group-title="USA", CNBC World
+http://161.0.157.9/PLTV/88888888/224/3221227005/01.m3u8
+
+#EXTINF:0 group-title="USA", Atlanta Channel
+http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
+
+#EXTINF:0 group-title="USA", Travel Channel
+http://80.80.160.168/live/3/live.m3u8
+
+#EXTINF:0 group-title="USA", Discovery Science
+http://80.80.160.168/live/9/live.m3u8
+
+#EXTINF:0 group-title="USA", Planet Green
+http://80.80.160.168/live/4/live.m3u8
+
+#EXTINF:0 group-title="USA", Fox Premium Cinema
+http://161.0.157.9/PLTV/88888888/224/3221226793/index.m3u8
+
+#EXTINF:0 group-title="USA", Sony Movie Channel HD
+http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8
+
+#EXTINF:0 group-title="USA", Southeastern Channel
+http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
+
+#EXTINF:0 group-title="USA",Beach TV - Pawleys Island
+http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
+
+#EXTINF:0 group-title="USA", Eye 95 TV
+http://cdn20.liveonlineservices.com/hls/eye95tv.m3u8
+
+#EXTINF:0 tvg-name="Jasmin Tv" group-title="USA",Jasmin Tv
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+
+#EXTINF:0 group-title="Equador",TC HD
+http://elcanaldelfutbol.com/static/wowza/test/hls/10001/720p/playlist.m3u8
+
+#EXTINF:0 group-title="Equador",ECUAVISA
+http://elcanaldelfutbol.com/static/wowza/test/hls/20001/480p/playlist.m3u8
+
+#EXTINF:0 group-title= "Peru", BHTV
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+
+#EXTINF:0 group-title= "Peru", TV PERU
+http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
+
+#EXTINF:0 group-title="India",Zee Cafe HD
+http://z5ams.akamaized.net/zeecafehd/tracks-v1a1/index.m3u8
+#EXTINF:0 group-title="India",Zee Cinema HD
+http://z5ams.akamaized.net/zcinemahd/tracks-v1a1/index.m3u8
+#EXTINF:0 group-title="India",Zee Bangla HD
+http://z5ams.akamaized.net/zeebanglahd/tracks-v1a1/index.m3u8
+#EXTINF:0 group-title="India",Zee Marathi HD
+http://z5ams.akamaized.net/zmarathihd/tracks-v1a1/index.m3u8
+#EXTINF:0 group-title="India",Zee News
+http://z5ams.akamaized.net/zeenews/tracks-v1a1/index.m3u8
+#EXTINF:0 group-title="India",Zee TV HD
+http://z5ams.akamaized.net/zeetvhd/tracks-v1a1/index.m3u8
+
+#EXTINF:0 group-title="Germany",DW Deutsch
+http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/index_1_av-b.m3u8
+
+#EXTINF:0 group-title="Germany",Pro 7
+https://unicast.bbxnet.sk/live//pro-7/playlist.m3u8
+
+#EXTINF:0 group-title="Germany",Sat.1
+https://unicast.bbxnet.sk/live//sat-1/playlist.m3u8
+
+#EXTINF:0 group-title="Germany",3sat
+https://unicast.bbxnet.sk/live//3-sat/playlist.m3u8
+
+#EXTINF:0 group-title="Germany",Tagesschau
+https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8
+#EXTINF:0 group-title="Germany",HR
+http://livestream-1.hr.de/i/hr_fernsehen@75910/index_3584_av-b.m3u8
+#EXTINF:0 group-title="Germany",SWR3 Visual Radio
+http://swr3visual-lh.akamaihd.net/i/swr3visual_live@6410/index_3584_av-p.m3u8
+#EXTINF:0 group-title="Germany",DASDING Visual Radio
+http://swrdasding-lh.akamaihd.net/i/dasdingvisual_live@6416/index_3584_av-p.m3u8
+#EXTINF:0 group-title="Germany",BR
+https://br_hdslive-f.akamaihd.net/i/bfssued_worldwide@119891/index_3776_av-p.m3u8
+#EXTINF:0 group-title="Germany",Tagesschau 24 HD
+http://tagesschau-lh.akamaihd.net:80/i/tagesschau_1@119231/index_3776_av-p.m3u8
+#EXTINF:0 group-title="Germany",Family TV
+http://familytvblizz-lh.akamaihd.net/i/blizzlive_1@36699/index_500_av-p.m3u8
+#EXTINF:0 group-title="Germany", BLIZZ
+http://familytvblizz-lh.akamaihd.net/i/familytv_1@458351/index_500_av-p.m3u8
+#EXTINF:0 group-title="Germany",TV Halle
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:tvhalle_high/playlist.m3u8
+#EXTINF:0 group-title="Germany",WDR1 HD
+http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/index_3776_av-p.m3u8
+#EXTINF:0 group-title="Germany", ZDFheute
+https://zdf0102-lh.akamaihd.net/i/none01_v1@392849/master.m3u8
+#EXTINF:0 group-title="Germany",Das Erste
+https://daserstelive-lh.akamaihd.net/i/daserste_de@38086/index_2692_av-p.m3u8
+#EXTINF:0 group-title="Germany",Sonnenklar TV HD
+http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8
+#EXTINF:0 group-title="Germany",TeleBärn HD
+http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/sd/10000/t/XTGwenpKUhx_fbVnsiu9MQ/index-s32.m3u8
+#EXTINF:0 group-title="Germany",Tele M1 HD
+http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_ljzy3evp/sd/10000/t/nwOKUovT2mwnA8x_KnC4zg/index-s32.m3u8
+#EXTINF:0 group-title="Germany", OE24
+http://apasfoe24l.sf.apa.at/ipad/oe24-live1/oe24.sdp/playlist.m3u8
+#EXTINF:0 group-title="Germany",Bibel TV
+http://bibeltv02.iptv-playoutcenter.de/bibeltv01/bibeltv01.stream_1/playlist.m3u8
+#EXTINF:0 group-title="Germany",K-TV
+http://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
+#EXTINF:0 group-title="Germany",ERF 1
+http://14000-l.z.core.cdn.streamfarm.net/007erfiphonelive/smil:stream_live.smil/chunklist_w1563145417_b240000.m3u8
+#EXTINF:0 group-title="Germany",QVC
+http://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_main_clean/bitrate1.isml/3/prog_index.m3u8
+#EXTINF:0 group-title="Germany",QVC PLUS
+http://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_plus_clean/bitrate1.isml/3/prog_index.m3u8
+#EXTINF:0 group-title="Germany",TVO (CH)
+http://livevideo.infomaniak.com/streaming/livecast/tvo/playlist.m3u8
+#EXTINF:0 group-title="Germany",TeleBielingue
+http://livevideo.infomaniak.com/streaming/livecast/telebielinguech/playlist.m3u8
+#EXTINF:0 group-title="Germany",Folx TV
+http://46.101.244.86:8081/folx-abr/live-abr/playlist.m3u8
+#EXTINF:0 group-title="Germany",Deutsches Musik Fernsehen
+https://tv.artcom-venture.de/dmf/tv_720.m3u8
+#EXTINF:0 group-title="Germany",QVC Beauty & Style
+http://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_beauty_clean/bitrate1.isml/3/prog_index.m3u8
+#EXTINF:0 group-title="Germany",NDR Niedersachsen HD
+https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/index_3776_av-p.m3u8
+#EXTINF:0 group-title="Germany",BR Fernsehen Süd HD
+https://brlive-lh.akamaihd.net/i/bfssued_germany@119890/index_3776_av-p.m3u8
+#EXTINF:0 group-title="Germany",hr-fernsehen
+http://hrlive1-lh.akamaihd.net/i/hr_fernsehen@75910/index_3584_av-p.m3u8
+#EXTINF:0 group-title="Germany",BADEN TV
+http://cdn.icu.de/rtplive/btv.stream/playlist.m3u8
+#EXTINF:0 group-title="Germany",MAIN TV
+http://maintv.iptv-playoutcenter.de:1935/maintv/maintv.stream_2/playlist.m3u8
+#EXTINF:0 group-title="Germany",NOA4
+http://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
+#EXTINF:0 group-title="Germany",Oberpfalz TV
+https://586dce1287bfd.streamlock.net/oberpfalztv/oberpfalztv.stream_1/playlist.m3u8
+#EXTINF:0 group-title="Germany",OK Trier
+http://stream-cdn.ok54.de/hls/ok54.m3u8
+#EXTINF:0 group-title="Germany",Regio TV Schwaben
+http://regiotv.iptv-playoutcenter.de:1935/regiotv/regiotv.stream_1/playlist.m3u8
+#EXTINF:0 group-title="Germany",Sylt1
+http://62.67.13.54:1935/sylt1/sylt1_high.stream/chunklist.m3u8
+#EXTINF:0 group-title="Germany",TRP1
+http://teleregionalpassau1.iptv-playoutcenter.de:1935/teleregionalpassau1/teleregionalpassau1.stream_1/playlist.m3u8
+#EXTINF:0 group-title="Germany",Parlamentsfernsehen 1
+https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk1.m3u8
+#EXTINF:0 group-title="Germany",Parlamentsfernsehen 2
+https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk2.m3u8
+#EXTINF:0 group-title="Germany",Okto
+https://d2jk87psbjrjdz.cloudfront.net/livehttporigin/okto/playlist.m3u8
+#EXTINF:0 group-title="Germany",dorf tv
+https://stream.openplayout.org/hls/dorf_high/index.m3u8
+#EXTINF:0 group-title="Germany",Tirol TV
+http://lb.hd-livestream.de:1935/live/TirolTV/playlist.m3u8
+#EXTINF:0 group-title="Germany",Telebasel
+http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/master.m3u8
+
+#EXTINF:0 group-title="Italy",FOX ACCION 
+http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/610.m3u8 
+
+#EXTINF:0 group-title="Italy",HBO 
+http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/1594.m3u8 
+
+#EXTINF:0 group-title="Italy",HBO2 
+http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/2804.m3u8 
+
+#EXTINF:0 group-title="Italy",HBO PLUS ESTE 
+http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/593.m3u8 
+
+#EXTINF:0 group-title="Italy",HBO FAMILY 
+http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/598.m3u8 
+
+#EXTINF:0 group-title="Italy",HBO SIGNATURE 
+http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/592.m3u8 
+
+#EXTINF:0 group-title="Italy",FOX CLASSICS 
+http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/608.m3u8 
+
+#EXTINF:0 group-title="Italy",FOX FAMILY 
+http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/606.m3u8 
+
+#EXTINF:0 group-title="Italy",FOX COMEDY 
+http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/607.m3u8 
+
+#EXTINF:0 group-title="Italy",MAX PRIME ESTE 
+http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/2335.m3u8 
+
+#EXTINF:0 group-title="Italy",TNT 
+http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/1705.m3u8 
+
+#EXTINF:0 group-title="Italy",TNT SERIES 
+http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/813.m3u8 
+
+#EXTINF:0 group-title="Italy",TNT. 
+http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/2809.m3u8 
+
+#EXTINF:0 group-title="Italy",STUDIO UNIVERSAL 
+http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/267.m3u8 
+
+#EXTINF:0 group-title="Italy",SPACE 
+http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/265.m3u8 
+
+#EXTINF:0 group-title="Italy",GOLDEN 
+http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/1720.m3u8 
+
+#EXTINF:0 group-title="Italy",TCM 
+http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/1719.m3u8 
+
+#EXTINF:0 group-title="Italy",ID HD 
+http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/2037.m3u8 
+
+#EXTINF:0 group-title="Italy",Natgeo - Culturales 
+http://kimbogrupol.com:25461/live//123456789/123456789/16152.m3u8 
+
+#EXTINF:0 group-title="Italy",AMC 
+http://kimbogrupol.com:25461/live//123456789/123456789/16183.m3u8 
+
+#EXTINF:0 group-title="Italy",AXN 
+http://kimbogrupol.com:25461/live//123456789/123456789/16182.m3u8 
+
+#EXTINF:0 group-title="Italy",Cinecana 
+http://kimbogrupol.com:25461/live//123456789/123456789/16181.m3u8 
+
+#EXTINF:0 group-title="Italy",Cinemax   
+http://kimbogrupol.com:25461/live//123456789/123456789/16180.m3u8 
+
+#EXTINF:0 group-title="Italy",Fox Premium Action 
+http://kimbogrupol.com:25461/live//123456789/123456789/16179.m3u8 
+
+#EXTINF:0 group-title="Italy",Fox Premium Cinema 
+http://kimbogrupol.com:25461/live//123456789/123456789/16178.m3u8 
+
+#EXTINF:0 group-title="Italy",Fox Premium Classics   
+http://kimbogrupol.com:25461/live//123456789/123456789/16177.m3u8 
+
+#EXTINF:0 group-title="Italy",Fox Premium Comedy   
+http://kimbogrupol.com:25461/live//123456789/123456789/16176.m3u8 
+
+#EXTINF:0 group-title="Italy",Fox Premium Family   
+http://kimbogrupol.com:25461/live//123456789/123456789/16175.m3u8 
+
+#EXTINF:0 group-title="Italy",Fox Premium Movies   
+http://kimbogrupol.com:25461/live//123456789/123456789/16174.m3u8 
+
+#EXTINF:0 group-title="Italy",Fox Premium Series 
+http://kimbogrupol.com:25461/live//123456789/123456789/16173.m3u8 
+
+#EXTINF:0 group-title="Italy",Golden   
+http://kimbogrupol.com:25461/live//123456789/123456789/16172.m3u8 
+
+#EXTINF:0 group-title="Italy",HBO 2 
+http://kimbogrupol.com:25461/live//123456789/123456789/16170.m3u8 
+
+#EXTINF:0 group-title="Italy",HBO Family 
+http://kimbogrupol.com:25461/live//123456789/123456789/16169.m3u8 
+
+#EXTINF:0 group-title="Italy",HBO Plus 
+http://kimbogrupol.com:25461/live//123456789/123456789/16168.m3u8 
+
+#EXTINF:0 group-title="Italy",HBO Signature 
+http://kimbogrupol.com:25461/live//123456789/123456789/16167.m3u8 
+
+#EXTINF:0 group-title="Italy",HBO 
+http://kimbogrupol.com:25461/live//123456789/123456789/16171.m3u8 
+
+#EXTINF:0 group-title="Italy",Max Prime 
+http://kimbogrupol.com:25461/live//123456789/123456789/16166.m3u8 
+
+#EXTINF:0 group-title="Italy",Studio Universal 
+http://kimbogrupol.com:25461/live//123456789/123456789/16165.m3u8
+
+#EXTINF:0 group-title="Italy",Rai Movies
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+
+#EXTINF:0 group-title="Italy",Rai Premium HD
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
+
+#EXTINF:0 group-title="Italy",La 7
+http://la7-vh.akamaihd.net/i/content/entry/data/0/299/0_b7o9lvba_0_kyyr8vxz_1.mp4/master.m3u8
+
+#EXTINF:0 group-title="Italy",Canale 7
+http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
+
+#EXTINF:0 group-title="Italy",RTL 102.5 TV HD
+http://rtl-radio-stream-thron.akamaized.net/live-video/video1/video1/chunklist_b2296000.m3u8
+
+
+#EXTINF:0 group-title="Austria",ORF 1
+https://orf1.cdn.ors.at/out/u/orf1/qxb/manifest_6.m3u8
+
+#EXTINF:0 group-title="Austria",ORF 2
+https://orf2.cdn.ors.at/out/u/orf2/qxb/manifest_6.m3u8
+
+#EXTINF:0 group-title="Austria",ORF 3
+https://orf3.cdn.ors.at/out/u/orf3/qxb/manifest_6.m3u8
+
+#EXTINF:0 group-title="UK",SKY News 
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8 
+
+#EXTINF:0 group-title="UK",CNBC World
+http://161.0.157.9/PLTV/88888888/224/3221227005/03.m3u8
+
+#EXTINF:0 group-title="UK",Sky News
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/CD0hms8.png" group-title="UK",Bloomberg TV UK
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+
+
+#EXTINF:0 group-title="Ireland",RTE News NOW
+http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8
+
+#EXTINF:0 group-title="Finland",YLE TV1 
+http://yletvhdliveworld-lh.akamaihd.net/i/yletv1hdworld_1@187592/index_2764_av-p.m3u8? 
+
+#EXTINF:0 group-title="Italy",Rai 4 
+http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/master.m3u8 
+
+#EXTINF:0 group-title="France",TV5 MONDE
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
+
+#EXTINF:0 group-title="France",Gong 
+http://ec.playmedia.fr:1935/gong-base/live/playlist.m3u8 
+
+#EXTINF:0 group-title="France",FR24 
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master.m3u8 
+
+#EXTINF:0 group-title="Norway",MTV 
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8 
+
+#EXTINF:0 group-title="Greece",ERT World
+http://freeview.ashttp9.visionip.tv/live/tvnetwork-hellenictv-ertworld-hsslive-25f-4x3-SDh/chunklist.m3u8
+
+#EXTINF:0 group-title="Greece",ERT 2 
+http://freeview.ashttp9.visionip.tv/live/tvnetwork-hellenictv-nrg-hsslive-25f-4x3-SDh/chunklist.m3u8
+
+#EXTINF:0 group-title="Greece",Canali 
+http://live.streams.ovh:1935/cannali/cannali/playlist.m3u8 
+
+#EXTINF:0 group-title="Cyprus",CAPITAL CY
+http://freeview.ashttp9.visionip.tv/live/tvnetwork-hellenictv-htvcapital-hsslive-25f-4x3-SDh/chunklist.m3u8
+
+#EXTINF:0 group-title="Cyprus",PLUS TV CY
+http://freeview.ashttp9.visionip.tv/live/tvnetwork-hellenictv-plus_tv-hsslive-25f-4x3-SDh/chunklist.m3u8
+
+#EXTINF:0 group-title="Cyprus",RIK SAT CY
+http://freeview.ashttp9.visionip.tv/live/tvnetwork-hellenictv-riksat-hsslive-25f-4x3-SDh/chunklist.m3u8
+
+#EXTINF:0 group-title="Hungary",1 Music 
+http://stream.1music.hu/stream/1music.m3u8 
+
+#EXTINF:0 group-title="Bosnia Herzegovina",BN TV 
+http://tvstream.rtvbn.com:1935/live/stream/playlist.m3u8 
+
+#EXTINF:0 group-title="Bosnia Herzegovina",A1 World
+http://178.132.6.97/A1World1/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 group-title="Bosnia Herzegovina",A1 Cinema
+http://178.132.6.97:80/A1Cinema1/index.m3u8
+
+#EXTINF:0 group-title="Bosnia Herzegovina",A1 Exclusive
+http://178.132.6.97/A1Exclusive1/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 group-title="Bosnia Herzegovina",A1 Kids
+http://178.132.6.97:80/A1Kids1/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 group-title="Russia",Россия 1
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:r1.smil/chunklist_b1600000.m3u8
+
+#EXTINF:0 group-title="Russia",Россия К
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rk.smil/chunklist_b1600000.m3u8
+
+#EXTINF:0 group-title="Russia",RTI HD
+http://cdn.vsnw.net:8081/interradio/720i.m3u8
+
+#EXTINF:0 group-title="Russia",Kino Menu HD
+http://62.76.26.81:8081/hdmedia/menu/playlist.m3u8
+
+#EXTINF:0 group-title="Russia", PRO 100 TV
+http://82.193.71.93/Pro100TvRuSattelite/video.m3u8
+
+#EXTINF:0 group-title="Russia",Москва 24
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:m24.smil/chunklist_b1600000.m3u8
+
+#EXTINF:0 group-title="Russia",Mir 24 
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+
+#EXTINF:0 group-title="Russia",Mir TV
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8 
+
+#EXTINF:0 group-title="Russia",Мир +4
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
+
+#EXTINF:0 group-title="Russia",Мир Белагорья
+http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8
+
+#EXTINF:0 group-title="Russia",MTV Ufa 
+http://81.30.182.82:18092/hls/live.m3u8 
+
+#EXTINF:0 group-title="Russia",Tugan Tel (Baskortistan - Russia)
+http://streamer.rtcommufa.ru:1935/tugantel/tugantel1/playlist.m3u8
+
+#EXTINF:0 group-title="Ukraine",ДTV (Краматорск)
+http://stream.dn.ua/hls/stream.m3u8
+
+#EXTINF:0 group-title="Ukraine",СК1 (Житомир)
+http://cdn1.live-tv.od.ua:8081/sk1zt/sk1zt-abr/playlist.m3u8
+
+#EXTINF:0 group-title="Ukraine",4 канал (Киев)
+http://api.tv.ipnet.ua/api/v1/manifest/2118742331.m3u8
+
+#EXTINF:0 group-title="Ukraine",5 канал UA
+http://api.tv.ipnet.ua/api/v1/manifest/1293299450.m3u8
+
+#EXTINF:-1,ТВ-5 (Запорожье)
+http://rtsp.cdn.ua/tv5.zp.ua_live/_definst_/mp4:tv5/playlist.m3u8
+
+#EXTINF:0 group-title="Ukraine",А1 (Одесса)
+http://cdn1.live-tv.od.ua:8081/a1od/a1od-abr/playlist.m3u8
+
+#EXTINF:0 group-title="Ukraine",TV7+ (Одесса)
+http://tv7plus.com/hls/tv7.m3u8
+
+#EXTINF:0 group-title="Ukraine",112 
+http://app.live.112.events/hls/112hd_mid/index.m3u8 
+
+#EXTINF:0 group-title="Ukraine",Music Box 
+http://212.26.132.86/hls/mb_ua_2500.m3u8 
+
+#EXTINF:0 group-title="Ukraine",OTV (F)
+http://api.tv.ipnet.ua/api/v1/manifest/1293297500.m3u8?codec=mpeg4
+
+#EXTINF:0 group-title="Ukraine",K1 
+http://109.68.40.67/life/k1.m3u8 
+
+#EXTINF:0 group-title="Ukraine",НТА
+http://95.67.106.10/hls/nta_ua_hi/index.m3u8
+
+#EXTINF:0 group-title="Ukraine",Crimea 24
+http://vid.techbee.pro:8080/crimea24/index.m3u8
+
+#EXTINF:0 group-title="Ukraine",LALE
+http://stream.atr.ua/lale//live/index.m3u8
+
+#EXTINF:0 group-title="Ukraine",ATR Crimea
+http://stream.atr.ua/atr/live/index.m3u8
+
+#EXTINF:0 group-title="Bulgaria",Planeta 
+http://84.43.207.130/planetahd/planetahd.m3u8 
+
+#EXTINF:0 group-title="Bulgaria",BTV Cinema 
+http://84.43.207.130/btvcinema/btvcinema.m3u8 
+
+#EXTINF:0 group-title="Bulgaria",Diema 
+http://84.43.207.130/diema/diema.m3u8 
+
+#EXTINF:0 group-title="Bulgaria",Cherno More 
+http://ios.cdn.bg:2006/fls/chmore.stream/playlist.m3u8 
+
+#EXTINF:0 group-title="Bulgaria",Eurocom 
+http://live.eurocom.bg:8080/hls/stream.m3u8 
+
+#EXTINF:0 group-title="Bulgaria",BG Onair 
+http://ios.cdn.bg:2006/fls/bonair.stream/playlist.m3u8 
+
+#EXTINF:0 group-title="Kazakhstan",CANAL 7 (KZ)
+http://cdn.tv7.kz/7channel_transcoded/tracks-2,1/index.m3u8
+
+#EXTINF:0 group-title="Kazakhstan",Асыл Арна (KZ)
+http://212.154.188.10:1935/live/v_352_512.stream/playlist.m3u8
+
+#EXTINF:0 group-title="Turkmenistan",Altyn Asyr
+http://alpha.tv.online.tm/hls/ch001_400/index.m3u8
+
+#EXTINF:0 group-title="Turkmenistan",YASLYK
+http://alpha.tv.online.tm/hls/ch002_400/index.m3u8
+
+#EXTINF:0 group-title="Turkmenistan",PERVYJ KANAL
+http://alpha.tv.online.tm/hls/ch003_400/index.m3u8
+
+#EXTINF:0 group-title="Turkmenistan",TURKMENISTAN SPORT
+http://alpha.tv.online.tm/hls/ch004_400/index.m3u8
+
+#EXTINF:0 group-title="Turkmenistan",TURKMEN OWAZY
+http://alpha.tv.online.tm/hls/ch005_400/index.m3u8
+
+#EXTINF:0 group-title="Turkmenistan",ASGABAT
+http://alpha.tv.online.tm/hls/ch006_400/index.m3u8
+
+#EXTINF:0 group-title="Turkmenistan",TURKMENISTAN SKY
+http://alpha.tv.online.tm/hls/ch007_400/index.m3u8
+
+
+#EXTINF:0 group-title="Japan",NHK World 
+https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8 
+
+#EXTINF:0 group-title="UAE",Sky News 
+https://stream.skynewsarabia.com/hls/sna_480.m3u8 
+
+#EXTINF:0 group-title="UAE",Dubai One 
+http://dmithrvll.cdn.mangomolo.com/dubaione/smil:dubaione.smil/playlist.m3u8 
+
+#EXTINF:0 group-title="UAE",AD Sport 1 
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8 
+
+#EXTINF:0 group-title="UAE",AD Sport 2 
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8 
+
+#EXTINF:0 group-title="Qatar",Al Jazeera Doc 
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8 
+
+#EXTINF:0 group-title="UAE",Fox Movies
+http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8?fluxustv.m3u8
+
+#EXTINF:0 group-title="Egypt",CTV
+http://media4.smc-host.com:1935/ctvchannel.tv/ctv.smil/playlist.m3u8
+
+#EXTINF:0 group-title="Iran",Simaye Azadi
+https://sima-i.akamaihd.net/hls/live/624111/sima/index.m3u8
+
+#EXTINF:0 group-title="Iran",AFN
+http://66.160.192.250:8080/afn-TVBOXHD.COM/afn/tracks-v1a1/index.m3u8
+
+#EXTINF:0 group-title="Pakistan",Geo News
+http://stream.jeem.tv/geo/geonews/playlist.m3u8
+
+#EXTINF:0 group-title="Pakistan",PTV
+http://67.231.248.131:1935/live/PTVnews/chunklist_w1281891626.m3u8
+
+#EXTINF:0 group-title="Pakistan",Tez
+http://stream.jeem.tv/geo/geotezz/playlist.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://aunmedia.org/sites/default/files/internship/kneset.jpg" group-title="Israel",Knesset Channel
+http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
+
+#EXTM3U:0 group-title="Nepal",Nepali TV
+http://live.zecast.net/ntvglobal/nepalitv/playlist.m3u8
+
+#EXTINF:0 group-title="Spain",TV 3 Catalunya
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_tv/playlist.m3u8
+
+#EXTINF:0 group-title="Malasia",TV 2
+http://rtm-live.glueapi.io/smil:rtmch002/chunklist_b1064000_sleng.m3u8
+
+#EXTINF:0 group-title="Mexico",Rog TV 2
+http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
+
+#EXTINF:0 group-title="Mexico",Canal 10 Chetumal
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+
+#EXTINF:0 group-title="Mexico",EFECTOTV HD
+http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/index_1_av-p.m3u8?CeceGeek.m3u8
+
+#EXTINF:0 group-title="Cuba",TV MARTI
+http://ocb-lh.akamaihd.net:80/i/ocb_mpls_tvmc1@383606/index_0540_av-b.m3u8
+
+#EXTINF:0 group-title="Venezuela",telesur
+https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/chunklist.m3u8
+
+#EXTINF:0 group-title="Brasil",SBT HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
+#EXTINF:0 group-title="Brasil",TV ESCOLA HD
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/chunklist.m3u8
+#EXTINF:0 group-title="Brasil",TV FAAP HD
+http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
+#EXTINF:0 group-title="Brasil", REDE NEWS HD
+http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8?ISAQUE
+#EXTINF:0 group-title="Brasil",ALL SPORTS TV BR
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+#EXTINF:0 group-title="Brasil", CBTV INTERNACIONAL BR
+https://sa-all22.secdn.net/cbtv-channel/play/mp4:stream/chunklist_w1352920024.m3u8
+
+#EXTINF:0 group-title="Argentina", Canal 26
+http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
+#EXTINF:0 group-title="Argentina", Music Top
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+#EXTINF:0 group-title="Argentina", Litus
+http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
+#EXTINF:0 group-title="Argentina", Telemax
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w950122583_b1828000_sleng.m3u8
+
+#EXTINF:0 group-title="Chile",PIGUINO TV
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8
+
+#EXTINF:0 group-title="Thailand",FOX TH
+http://cdn2.bear-tv.com/freetv/TOT_foxthai_eng/playlist.m3u8
+
+#EXTINF:0 group-title="Thailand",3 HD
+http://ch3-33.cdn.byteark.com/live/playlist_720p/index.m3u8
+
+#EXTINF:0 group-title="Denmark",TV 2 FYN
+http://cdn-lt-hls-vod.tv2fyn.dk/fhls/p/1966291/sp/196629100/serveFlavor/entryId/0_yct7rqn3/v/2/flavorId/0_h2wfmuqm/name/a.mp4/index.m3u8
+
+#EXTINF:0 group-title="Denmark",TV 2 Lorry
+http://cdn-lt-hls-vod.tv2lorry.dk/fhls/p/2045321/sp/204532100/serveFlavor/entryId/0_0u9letdh/v/1/flavorId/0_p5f7q6yf/name/a.mp4/index.m3u8
+
+#EXTINF:0 group-title="Vatican",TV 2000
+http://cld01ibi16.wz.tv2000.it/tv2000_alfa.m3u8
+
+#EXTINF:0 group-title="Canada",CPAC EN
+http://bcoveliveios-i.akamaihd.net/hls/live/248519/1242843915001_1/master.m3u8
+
+#EXTINF:0 group-title="Canada",Tele-Quebec
+https://teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chunklist_b1128000.m3u8
+
+#EXTINF:0 group-title="Canada",Canal Savoir
+http://stream.canalsavoir.tv/livestream/stream.m3u8
+
+#EXTINF:0 group-title="Canada",Canada One
+http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
+
+#EXTINF:0 group-title="Canada",FTV Canada
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
+
+#EXTINF:0 group-title="Canada",Canada Star
+http://981680400.publishstream.fdccdn.net/P981680400/canadastartv/playlist.m3u8
+
+#EXTINF:0 group-title="India",&Flix HD
+http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
+
+#EXTINF:0 group-title="Poland",Polsat Viasat Nature
+http://hls.redefine.pl/27D4F385/4195/0/hls576/576p/list.m3u8
+
+#EXTINF:0 group-title="Poland",Crime Investigation Polsat
+http://hls.redefine.pl/4C97F3A2/11306/0/hls576/576p/list.m3u8
+
+#EXTINF:0 group-title="Iceland" tvg-logo="http://www.icelandwintergames.com/static/gallery/partners-1/.thumb/n4.png" ,N4
+http://tv.vodafoneplay.is/n4/03.m3u8
+
+#EXTINF:0 group-title="Iceland" tvg-logo="http://www.ruv.is/sites/all/themes/at_ruv/images/default-image-1200x750.png" ,Rúv
+http://ruvruverl-live.hls.adaptive.level3.net/ruv/ruverl/index/stream4.m3u8
+
+#EXTINF:0 group-title="UK",Water Planet
+http://hls.redefine.pl/1D8B4940/11286/0/hls576/576p/list.m3u8
+
+#EXTINF:0 group-title="Norway" tvg-logo="https://i.vimeocdn.com/video/438638085_780x439.jpg" ,Fatstone TV
+http://bgo1.cdn.s3m.no/fs/live/ngrp:live_all/chunklist_b5196000.m3u8
+
+#EXTINF:0 group-title="Denmark" tvg-logo="https://yt3.ggpht.com/-bPiRzkkb1ks/AAAAAAAAAAI/AAAAAAAAAAA/hlb_vvmfzHo/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" ,KKR TV
+http://stream.kkr.dk/live/ngrp:kkr_adaptive/chunklist_w184691500_b1628000.m3u8
+
+#EXTINF:0 group-title="Norway" tvg-logo="http://www.txvikings.com/kanal10.png" ,Kanal 10
+http://cdn-kanal10.crossnet.net/kanal10no/live1/playlist.m3u8
+
+#EXTINF:0 group-title="Slovakia",Senzi
+http://109.74.144.130/live/senzitest/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://elektrika.tv/elektrika-tv.jpg" group-title="Czechia",Elektrika TV
+http://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/03_logo/Retro_Czech_Republic.jpg" group-title="Czechia",Retro (Opt-1)
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/media/DLsTRdoXkAEumh0.jpg" group-title="Czechia",Tuty TV
+http://stream.mediawork.cz/tuty/tutytv/playlist.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://okteve.com/wp-content/uploads/media/9e9d6d2b7e9c24a2773d97a576ab2476-196x126.jpeg" group-title="Slovakia",TV Lux HD
+http://live.tvlux.sk:1935/lux/lux.stream_360p/chunklist_w1295439472.m3u8
+
+#EXTINF:0 group-title="Croatia",HRT 1
+http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8
+
+#EXTINF:0 group-title="Croatia",HRT 2
+http://195.29.70.82/PLTV/88888888/224/3221226140/04.m3u8
+
+#EXTINF:0 group-title="Croatia",HRT 3
+http://195.29.70.67/PLTV/88888888/224/3221226280/04.m3u8
+
+#EXTINF:0 group-title="Croatia",HRT 4
+http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
+
+#EXTINF:0 group-title="Poland",Stars TV
+http://starstv.live.e55-po.insyscd.net/starstvhd.smil/index.m3u8
+
+#EXTINF:0 group-title="Finland",TV 7
+http://vod.tv7.fi:1935/tv7-ee/_definst_/smil:tv7-ee.smil/playlist.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/RtvZik_logo_58ffc167a169e.png" group-title="Albania",RTV Zik (Denmark)
+http://uk4.streamingpulse.com:1935/RTVZiK/RTVZiK/playlist.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/RTK_logo.png/1200px-RTK_logo.png" group-title="Albania",RTK 1 Kosovo
+http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/de/4/4b/Aljazeera_Balkans_alternativ.png" group-title="Bosnia Herzegovina",Al Jazeera Balkans
+http://aljazeera-balkans-apple-live.adaptive.level3.net/apple/aljazeera/balkans/800.m3u8
+
+
+
+#EXTINF:0 group-title="Music",NR1 4K 
+http://nr1hls.radyotvonline.com/nr14k/nr14k_hd/playlist.m3u8 
+
+#EXTINF:0 group-title="SPOR",TRT SPOR 
+https://trt-live.ercdn.net/trtspor/trtspor_2.m3u8 
+#EXTINF:0 group-title="SPOR",A SPOR 
+http://live.netd.com.tr/S1/HLS_LIVE/aspor/1000/prog_index.m3u8 
+#EXTINF:0 group-title="SPOR",A SPOR 
+http://trkvz-m.ercdn.net/trkvz-temp/asporhdm.m3u8 
+#EXTINF:0 group-title="SPOR",FB TV 
+http://umutiptv.cf/dailymotion.php?kanal=fbtv&type=m3u8 
+#EXTINF:0 group-title="SPOR",GS TV 
+http://umutiptv.cf/gs.php?kanal=gstv&type=m3u8 
+#EXTINF:0 group-title="SPOR",BJK TV 
+http://umutiptv.cf/dailymotion.php?kanal=bjktv&type=m3u8 
+#EXTINF:0 group-title="SPOR",YABAN 
+https://59cba4d34b678.streamlock.net/live1/yabantv/chunklist.m3u8 
+ 
+#EXTINF:0 group-title="HABER",TELE 1 
+http://umutiptv.cf/dailymotion.php?kanal=tele1&type=m3u8 
+#EXTINF:0 group-title="HABER",CNN TURK 
+http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8 
+#EXTINF:0 group-title="HABER",CNN TURK 
+http://media.netd.com.tr/S2/HLS_LIVE/cnn_turk/index.m3u8 
+#EXTINF:0 group-title="HABER",CNN TURK 
+https://srvc.dogannet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8 
+#EXTINF:0 group-title="HABER",NTV 
+http://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8 
+#EXTINF:0 group-title="HABER",BLOOMBERG HT 
+http://umutiptv.cf/ciner.php?kanal=bloomberght&type=m3u8 
+#EXTINF:0 group-title="HABER",TRT HABER 
+https://trt-live.ercdn.net/trthaber/trthaber_1.m3u8 
+#EXTINF:0 group-title="HABER",HABER GLOBAL 
+http://mn-nl.mncdn.com/ezcdn_Rlb6Y0obFxgx/Rlb6Y0obFxgx_1/chunklist.m3u8 
+#EXTINF:0 group-title="HABER",24 
+http://umutiptv.cf/dailymotion.php?kanal=24tv&type=m3u8 
+#EXTINF:0 group-title="HABER",A HABER 
+http://live.netd.com.tr/S1/HLS_LIVE/ahaber/1000/prog_index.m3u8 
+#EXTINF:0 group-title="HABER",A HABER 
+http://trkvz-m.ercdn.net/trkvz-temp/ahaberhdm.m3u8 
+#EXTINF:0 group-title="HABER",ULUSAL KANAL 
+http://umutiptv.cf/dailymotion.php?kanal=ulusalkanal&type=m3u8 
+#EXTINF:0 group-title="HABER",HABER TURK 
+http://umutiptv.cf/ciner.php?kanal=haberturk&type=m3u8 
+#EXTINF:0 group-title="HABER",TGRT HABER 
+https://5ab9557ae2fa9.streamlock.net/tgrt_haber/amlst:live-25/chunklist_w1011305533_b1200096.m3u8 
+#EXTINF:0 group-title="HABER",TURKIYEM TV 
+http://yerelmedya.tv:1935/turkiyemtv/_definst_/bant1/playlist.m3u8 
+#EXTINF:0 group-title="HABER",TURKIYEM TV 
+https://waw1.artiyerelmedya.net:446/turkiyemtv/bant1/chunks.m3u8 
+#EXTINF:0 group-title="HABER",BENGU TURK TV 
+http://umutiptv.cf/dailymotion.php?kanal=benguturk&type=m3u8 
+#EXTINF:0 group-title="HABER",ULKE TV 
+http://umutiptv.cf/ulketv.php&type=m3u8 
+ 
+#EXTINF:0 group-title="Turkey",FOX 
+http://umutiptv.cf/fox.php?kanal=foxtr&type=m3u8 
+#EXTINF:0 group-title="Turkey",SHOW TV 
+http://umutiptv.cf/ciner.php?kanal=show&type=m3u8 
+#EXTINF:0 group-title="Turkey",TV8 
+http://umutiptv.cf/acun.php?kanal=tv8&type=m3u8 
+#EXTINF:0 group-title="Turkey",360 
+http://umutiptv.cf/dailymotion.php?kanal=tv360&type=m3u8 
+#EXTINF:0 group-title="Turkey",STAR 
+http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8 
+#EXTINF:0 group-title="Turkey",ATV 
+http://live.netd.com.tr/S1/HLS_LIVE/atv/1000/prog_index.m3u8 
+#EXTINF:0 group-title="Turkey",ATV 
+http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8 
+#EXTINF:0 group-title="Turkey",KANAL D 
+http://soledge13.dogannet.tv/S2/HLS_LIVE/kanaldnp/track_4_1000/playlist.m3u8 
+#EXTINF:0 group-title="Turkey",KANAL D 
+http://soledge7.dogannet.tv/S2/HLS_LIVE/kanald/1000/prog_index.m3u8 
+#EXTINF:0 group-title="Turkey",KANAL D 
+http://live.netd.com.tr/S1/HLS_LIVE/kanald/index.m3u8 
+#EXTINF:0 group-title="Turkey",TRT 1 
+https://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_1500_av-p.m3u8 
+#EXTINF:0 group-title="Turkey",TLC 
+http://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8 
+#EXTINF:0 group-title="Turkey",TEVE 2 
+http://soledge7.dogannet.tv/S1/HLS_LIVE/tv2/1500/prog_index.m3u8 
+#EXTINF:0 group-title="Turkey",TEVE 2 
+http://soledge7.dogannet.tv/S1/HLS_LIVE/tv2/1000/prog_index.m3u8 
+#EXTINF:0 group-title="Turkey",D MAX 
+https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8 
+#EXTINF:0 group-title="Turkey",KANAL 7 
+http://178.132.6.97:8080/Kanal71/tracks-v1a1/index.m3u8 
+#EXTINF:0 group-title="Turkey",SHOW MAX 
+https://mn-nl.mncdn.com/showmax/smil:showmax.smil/chunklist_b1264000.m3u8 
+#EXTINF:0 group-title="Turkey",EURO STAR 
+http://xrklj56s.rocketcdn.com/eurostar.stream_360p/chunklist.m3u8 
+#EXTINF:0 group-title="Turkey",UCAN KUS 
+https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8 
+#EXTINF:0 group-title="Turkey",FLASH TV 
+http://98.142.98.125:1935/flashtv/flashtvmob/chunklist.m3u8 
+#EXTINF:0 group-title="Turkey",BEYAZ TV 
+http://umutiptv.cf/dailymotion.php?kanal=beyaztv&type=m3u8 
+#EXTINF:0 group-title="Turkey",TRT TURK 
+http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/index_1200_av-p.m3u8 
+#EXTINF:0 group-title="Turkey",TRT COCUK 
+https://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/index_1200_av-p.m3u8 
+#EXTINF:0 group-title="Turkey",TRT OKUL 
+https://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/index_1200_av-p.m3u8 
+#EXTINF:0 group-title="Turkey",TRT AVAZ 
+https://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/index_1200_av-p.m3u8 
+#EXTINF:0 group-title="Turkey",TRT BELGESEL 
+http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/master.m3u8 
+#EXTINF:0 group-title="Turkey",TRT BELGESEL 
+https://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/index_700_av-p.m3u8 
+#EXTINF:0 group-title="Turkey",TJK TV
+http://tjktv.ercdn.net/tjktv.m3u8
+ 
+#EXTINF:0 group-title="Music",TRT Muzik 
+https://trtcanlitv-lh.akamaihd.net/i/TRTMusic_1@181845/index_1200_av-p.m3u8 
+#EXTINF:0 group-title="Music",TRT Muzik 
+http://trtcanlitv-lh.akamaihd.net/i/TRTMusic_1@181845/master.m3u8 
+#EXTINF:0 group-title="Music",KRAL ARABESK 
+http://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8 
+#EXTINF:0 group-title="Music",KRAL PERFORMANS 
+https://kh2zh6sy.rocketcdn.com/kraldijital-konsertv.smil/chunklist_b2328000.m3u8 
+#EXTINF:0 group-title="Music",KRAL HD 
+http://bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8 
+#EXTINF:0 group-title="Music",KRAL AKUSTIK 
+https://dmu3sqri.rocketcdn.com/kraldijital-akustiktv.smil/chunklist_b2328000.m3u8 
+#EXTINF:0 group-title="Music",KRAL KONSER 
+https://0ajuu84p.rocketcdn.com/kraldijital-popkonsertv.smil/chunklist_b2328000.m3u8 
+#EXTINF:0 group-title="Music",POWER TURK 
+https://mggwfglv.rocketcdn.com/powerturkhd.smil/chunklist_b2650000_sltur.m3u8 
+#EXTINF:0 group-title="Music",POWER TURK 
+https://mggwfglv.rocketcdn.com/powerturkhd.smil/chunklist_b1428000_sltur.m3u8 
+#EXTINF:0 group-title="Music",DREAM TURK 
+http://live.netd.com.tr/S1/HLS_LIVE/dreamturktv/1000/prog_index.m3u8 
+#EXTINF:0 group-title="Music",DREAM TURK 
+http://live.netd.com.tr/S1/HLS_LIVE/dreamturktv/1500/prog_index.m3u8 
+#EXTINF:0 group-title="Music",NUMBER ONE TURK 
+http://umutiptv.cf/dailymotion.php?kanal=nr1turk&type=m3u8 
+#EXTINF:0 group-title="Music",DREAM TV 
+http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1500/prog_index.m3u8 
+#EXTINF:0 group-title="Music",DREAM TV 
+http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8 
+#EXTINF:0 group-title="Music",DREAM TV 
+http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/index.m3u8 
+#EXTINF:0 group-title="Music",POWER 
+https://hlep0q3b.rocketcdn.com/powerhd.smil/chunklist_b2650000_sltur.m3u8 
+#EXTINF:0 group-title="Music",POWER 
+https://hlep0q3b.rocketcdn.com/powerhd.smil/chunklist_b1428000_sltur.m3u8 
+#EXTINF:0 group-title="Music",KRAL WORLD 
+http://stmpo0wa.rocketcdn.com/kralworldtv.smil/chunklist.m3u8 
+#EXTINF:0 group-title="Music",NUMBER ONE DAMAR 
+http://umutiptv.cf/dailymotion.php?kanal=nr1damar&type=m3u8 
+#EXTINF:0 group-title="Music",NUMBER ONE ASK 
+http://umutiptv.cf/dailymotion.php?kanal=nr1ask&type=m3u8 
+#EXTINF:0 group-title="Music",NUMBER ONE TV 
+http://umutiptv.cf/dailymotion.php?kanal=nr1&type=m3u8 
+#EXTINF:0 group-title="Music",NUMBER ONE DANCE 
+http://umutiptv.cf/dailymotion.php?kanal=nr1dance&type=m3u8 
+
+
+#EXTINF:-1 group-title="VOD Turk Filmleri",Adabi Muasaret 
+http://1290922571.rsc.cdn77.org/movies/Adabi-Muhasaret.mp4/playlist.m3u8 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Adini Sen Koy 
+http://1290922571.rsc.cdn77.org/movies/Adini-Sen-Koy.mp4/playlist.m3u8 
+
+#EXTINF:-1 group-title="VOD Turk Filmleri",AgRi DAgi EFSANESI - HD FILM (RESTORASYONLU) 
+http://podsync.net/download/16Q6tPfGG/9hybSsFIlR4.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Aldirma Gonul Aldirma Karaoke 4K.mp4 
+http://vod.tsvipsmart.eu/karaoke/Ald%c4%b1rma%20G%c3%b6n%c3%bcl%20Ald%c4%b1rma%20Karaoke%204K.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Aleyna Tilki - Sen Olsan Bari KARAOKE.mp4 
+http://vod.tsvipsmart.eu/karaoke/Aleyna%20Tilki%20-%20Sen%20Olsan%20Bari%20KARAOKE.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Ali Kundilli 2 
+http://195.154.133.12/filmler/ali_kundilli_2.mp4/playlist.m3u8 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Aman done done yargeliyor KARAOKE 
+http://vod.tsvipsmart.eu/karaoke/aman%20d%c3%b6ne%20d%c3%b6ne%20yargeliyor%20%c3%96Z%20M%c3%9cZ%c4%b0K%20KARAOKE%20%c3%b6zkan%20kanl%c4%b1%202015.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Anadolu Kartallari 
+http://1290922571.rsc.cdn77.org/movies/Anadolu-Kartallari-2011.mp4/playlist.m3u8 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Ankaranin Baglari Karaoke 4K.mp4 
+http://vod.tsvipsmart.eu/karaoke/Ankaran%c4%b1n%20Ba%c4%9flar%c4%b1%20Karaoke%204K.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Araf 
+http://1290922571.rsc.cdn77.org/movies/Araf-2012.mp4/playlist.m3u8 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Arkadasim Hosgeldin 
+http://1290922571.rsc.cdn77.org/movies/Arkadasim-Hosgeldin.mp4/playlist.m3u8 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Arog 
+http://1290922571.rsc.cdn77.org/movies/Arog-2008.mp4/playlist.m3u8 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Ask Geliyorum Demez 
+http://1290922571.rsc.cdn77.org/movies/Ask-Geliyorum-Demez-2009.mp4/playlist.m3u8 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Ask Olsun 
+http://1290922571.rsc.cdn77.org/vod4/Movies/Tr/Ask.Olsun.2015.WEB-DL.XviD.mp4/playlist.m3u8 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Ask Sana Benzer 
+http://1290922571.rsc.cdn77.org/moviesnew/tr/drama/Ask-Sana-Benzer.mp4/playlist.m3u8 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Ask Tesadufleri Sever 
+http://1290922571.rsc.cdn77.org/movies/Ask-Tesadufleri-Sever-2011.mp4/playlist.m3u8 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Ask Tutulmasi 
+http://1290922571.rsc.cdn77.org/movies/Ask-Tutulmasi.mp4/playlist.m3u8 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Ask Ve Devrim 
+http://1290922571.rsc.cdn77.org/movies/Ask-Ve-Devrim-2012.mp4/playlist.m3u8 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Askin Ikinci Yarisi 
+http://1290922571.rsc.cdn77.org/movies/Askin-Ikinci-Yarisi-2009.mp4/playlist.m3u8 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Ata Demirer Tek Kisilik Gosteri 2 
+http://1290922571.rsc.cdn77.org/movies/Ata-Demirer-Tek-Kisilik-Gosteri-2-2011.mp4/playlist.m3u8 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Ataturkun Fedaisi Topal Osman 
+http://1290922571.rsc.cdn77.org/movies/Ataturkun-Fedaisi-Topal-Osman-2013.mp4/playlist.m3u8 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Atli Karinca 
+http://1290922571.rsc.cdn77.org/movies/Atli-Karinca-2011.mp4/playlist.m3u8 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Ay Buyurken Uyuyamam 
+http://1290922571.rsc.cdn77.org/movies/Ay-Buyurken-2011.mp4/playlist.m3u8 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Ay Lav Yu 
+http://1290922571.rsc.cdn77.org/movies/Ay-Lav-Yu.mp4/playlist.m3u8 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Babamin Sesi 
+http://1290922571.rsc.cdn77.org/movies/Babamin-Sesi-2012.mp4/playlist.m3u8 
+#EXTINF:-1 group-title="VOD Turk Filmleri",BATTAL GAZI DESTANi - HD FILM (RESTORASYONLU) 
+http://podsync.net/download/16Q6tPfGG/9x5BpVMOzjo.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",BATTAL GAZI'NIN iNTIKAMi - HD FILM (RESTORASYONLU) 
+http://podsync.net/download/16Q6tPfGG/gqaRZDA3EDQ.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",BATTAL GAZI'NIN OgLU - HD FILM (RESTORASYONLU) 
+http://podsync.net/download/16Q6tPfGG/n9XCgAa7dMY.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",BEBEK GIBI MAsALLAH - TuRK FILMI 
+http://podsync.net/download/HgcKa_LGG/p1-XjQFvaw0.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",BI O KALMisTi (B.O.K) - TuRK FILMI 
+http://podsync.net/download/HgcKa_LGG/fn9hc-dgj-c.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",BU SON OLSUN - TuRK FILMI(HD) 
+http://podsync.net/download/HgcKa_LGG/DZ2CCeE-uvI.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",cAM SAKiZi - HD FILM (RESTORASYONLU) 
+http://podsync.net/download/16Q6tPfGG/LooGIzaNkN0.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",cANAKKALE YOLUN SONU - TuRK FILMI 
+http://podsync.net/download/HgcKa_LGG/n3JXM-O3tUg.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",CEBERRUT - TuRK FILMI 
+http://podsync.net/download/HgcKa_LGG/ZvrqtefY78Y.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",CENNET - TuRK FILMI (HD) 
+http://podsync.net/download/HgcKa_LGG/GraW2UMbAnE.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",cILE - HD FILM (RESTORASYONLU) 
+http://podsync.net/download/16Q6tPfGG/YsM47Zg-Z4k.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",ciLGiN KAMP- TuRK FILMI 
+http://podsync.net/download/HgcKa_LGG/Wu4LjON64o8.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",DARiLDiN Mi CICIM BANA - HD FILM (RESTORASYONLU) 
+http://podsync.net/download/16Q6tPfGG/QTeT0uYXXGE.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",DELI DELI KuPELI - HD FILM (RESTORASYONLU) 
+http://podsync.net/download/16Q6tPfGG/X8f2tiB6jY8.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",DERBEDER - HD FILM (RESTORASYONLU) 
+http://podsync.net/download/16Q6tPfGG/D05WzTFvMk8.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",DESTERE - HD FILM (RESTORASYONLU) 
+http://podsync.net/download/16Q6tPfGG/kqPGpQIfBL8.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",DEVLET KUsU - HD FILM (RESTORASYONLU) 
+http://podsync.net/download/16Q6tPfGG/7iFehzxJZKs.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",DOKTOR CIVANiM - HD FILM (RESTORASYONLU) 
+http://podsync.net/download/16Q6tPfGG/BfeNrGXVxb8.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",EKSIK ETEK - TuRK FILMI (RESTORASYONLU) 
+http://podsync.net/download/HgcKa_LGG/l2RC0PjG0AM.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",EVLAT- HD FILM (RESTORASYONLU) 
+http://podsync.net/download/16Q6tPfGG/mUEoOueDvHU.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",GARIP - HD FILM (RESTORASYONLU) 
+http://podsync.net/download/16Q6tPfGG/w7bwBts_d1U.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",GOL KRALi - HD FILM (RESTORASYONLU) 
+http://podsync.net/download/16Q6tPfGG/vNeTCNXJXJA.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",GoNuL HiRSiZi - HD FILM (RESTORASYONLU) 
+http://podsync.net/download/16Q6tPfGG/MK_Ol-helBo.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",HABABAM SiNiFi uc BUcUK - HD FILM (RESTORASYONLU) 
+http://podsync.net/download/16Q6tPfGG/qJ_btoaVrBo.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",HuDAVERDI PiRTiK - TuRK FILMI (RESTORASYONLU) 
+http://podsync.net/download/HgcKa_LGG/MnEq-srU-kE.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",iNTIKAM BENIM - BANA VURMAYANA VURMAM 
+http://podsync.net/download/HgcKa_LGG/m69yjQSqOUI.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Kemal Sunal: atla_gel_saban 
+http://vod3.aker-iptv.com/turkvod/kemal_sunal/atla_gel_saban.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Kemal Sunal: AVANAK APTI- HD - KEMAL SUNAL FILMLERI 
+http://podsync.net/download/1B2iaPfbG/-yxY0eVfiNE.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Kemal Sunal: avanak_abdi 
+http://vod3.aker-iptv.com/turkvod/kemal_sunal/avanak_abdi.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Kemal Sunal: bekciler_krali 
+http://vod3.aker-iptv.com/turkvod/kemal_sunal/bekciler_krali.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Kemal Sunal: boynu_bukuk_kuheylan 
+http://vod3.aker-iptv.com/turkvod/kemal_sunal/boynu_bukuk_kuheylan.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Kemal Sunal: canim_kardesim 
+http://vod3.aker-iptv.com/turkvod/kemal_sunal/canim_kardesim.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Kemal Sunal: cARiKLi MILYONER - KEMAL SUNAL - HD TuRK FILMLERI 
+http://podsync.net/download/1B2iaPfbG/eP21Ca-fCoY.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Kemal Sunal: carikli_milyoner 
+http://vod3.aker-iptv.com/turkvod/kemal_sunal/carikli_milyoner.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Kemal Sunal: copculer_krali 
+http://vod3.aker-iptv.com/turkvod/kemal_sunal/copculer_krali.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Kemal Sunal: davaci 
+http://vod3.aker-iptv.com/turkvod/kemal_sunal/davaci.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Kemal Sunal: davaro 
+http://vod3.aker-iptv.com/turkvod/kemal_sunal/davaro.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Kemal Sunal: deli_deli_kupeli 
+http://vod3.aker-iptv.com/turkvod/kemal_sunal/deli_deli_kupeli.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Kemal Sunal: devlet_kusu 
+http://vod3.aker-iptv.com/turkvod/kemal_sunal/devlet_kusu.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Kemal Sunal: doktor_civanim 
+http://vod3.aker-iptv.com/turkvod/kemal_sunal/doktor_civanim.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Kemal Sunal: dokunmayin_sabanima 
+http://vod3.aker-iptv.com/turkvod/kemal_sunal/dokunmayin_sabanima.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Kemal Sunal: dut_durru_dunya 
+http://vod3.aker-iptv.com/turkvod/kemal_sunal/dut_durru_dunya.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Kemal Sunal: EN BuYuK sABAN - HD - KEMAL SUNAL FILMLERI 
+http://podsync.net/download/1B2iaPfbG/cPd7Zk1OpJI.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Kemal Sunal: en_buyuk_saban 
+http://vod3.aker-iptv.com/turkvod/kemal_sunal/en_buyuk_saban.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Kemal Sunal: garip 
+http://vod3.aker-iptv.com/turkvod/kemal_sunal/garip.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Kemal Sunal: gerzek_saban 
+http://vod3.aker-iptv.com/turkvod/kemal_sunal/gerzek_saban.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Kemal Sunal: gol_krali 
+http://vod3.aker-iptv.com/turkvod/kemal_sunal/gol_krali.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Kemal Sunal: gulen_adam 
+http://vod3.aker-iptv.com/turkvod/kemal_sunal/gulen_adam.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Kemal Sunal: gurbetci_saban 
+http://vod3.aker-iptv.com/turkvod/kemal_sunal/gurbetci_saban.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Kemal Sunal: hababam_sinifi 
+http://vod3.aker-iptv.com/turkvod/kemal_sunal/hababam_sinifi.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Kemal Sunal: hababam_sinifi_sinifta_kaldi 
+http://vod3.aker-iptv.com/turkvod/kemal_sunal/hababam_sinifi_sinifta_kaldi.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Kemal Sunal: hababam_sinifi_tatilde 
+http://vod3.aker-iptv.com/turkvod/kemal_sunal/hababam_sinifi_tatilde.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Kemal Sunal: hababam_sinifi_uyaniyor 
+http://vod3.aker-iptv.com/turkvod/kemal_sunal/hababam_sinifi_uyaniyor.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Kemal Sunal: hanzo 
+http://vod3.aker-iptv.com/turkvod/kemal_sunal/hanzo.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Kemal Sunal: HANZO - KEMAL SUNAL 
+http://podsync.net/download/1B2iaPfbG/GjcOQpC-TjY.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Kemal Sunal: hasret 
+http://vod3.aker-iptv.com/turkvod/kemal_sunal/hasret.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Kemal Sunal: iBO ILE GuLLusAH- HD - KEMAL SUNAL FILMLERI 
+http://podsync.net/download/1B2iaPfbG/2Roh7t-bkwE.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Kemal Sunal: ibo_ile_gullusah 
+http://vod3.aker-iptv.com/turkvod/kemal_sunal/ibo_ile_gullusah.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Kemal Sunal: inatci 
+http://vod3.aker-iptv.com/turkvod/kemal_sunal/inatci.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Kemal Sunal: inek_saban 
+http://vod3.aker-iptv.com/turkvod/kemal_sunal/inek_saban.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Kemal Sunal: iYI AILE cOCUgU - FULL HD RESTORASYONLU - KEMAL SUNAL 
+http://podsync.net/download/1B2iaPfbG/wMd3L3GjKxs.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Kemal Sunal: iyi_aile_cocugu 
+http://vod3.aker-iptv.com/turkvod/kemal_sunal/iyi_aile_cocugu.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Kemal Sunal: japon_isi 
+http://vod3.aker-iptv.com/turkvod/kemal_sunal/japon_isi.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Kemal Sunal: kanli_nigar 
+http://vod3.aker-iptv.com/turkvod/kemal_sunal/kanli_nigar.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Kemal Sunal: kapicilar_krali 
+http://vod3.aker-iptv.com/turkvod/kemal_sunal/kapicilar_krali.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Kemal Sunal: katma_deger_saban 
+http://vod3.aker-iptv.com/turkvod/kemal_sunal/katma_deger_saban.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Kemal Sunal: keriz 
+http://vod3.aker-iptv.com/turkvod/kemal_sunal/keriz.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Kemal Sunal: kibar_feyzo 
+http://vod3.aker-iptv.com/turkvod/kemal_sunal/kibar_feyzo.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Kemal Sunal: kilibik 
+http://vod3.aker-iptv.com/turkvod/kemal_sunal/kilibik.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Kemal Sunal: koltuk_belasi 
+http://vod3.aker-iptv.com/turkvod/kemal_sunal/koltuk_belasi.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Kemal Sunal: KORKUSUZ KORKAK - HD - KEMAL SUNAL FILMLERI 
+http://podsync.net/download/1B2iaPfbG/HUr8SCzNyN8.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Kemal Sunal: korkusuz_korkak 
+http://vod3.aker-iptv.com/turkvod/kemal_sunal/korkusuz_korkak.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Kemal Sunal: POLIZEI - KEMAL SUNAL 
+http://podsync.net/download/1B2iaPfbG/b05iYkJERxs.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Kemal Sunal: sABANIYE - KEMAL SUNAL - HD 
+http://podsync.net/download/1B2iaPfbG/EODPyKfRnBU.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Kemal Sunal: SAHTE KABADAYi -KEMAL SUNAL FILMLERI 
+http://podsync.net/download/1B2iaPfbG/2szX_F0ALGY.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Kemal Sunal: SAKAR sAKIR - HD - KEMAL SUNAL FILMLERI 
+http://podsync.net/download/1B2iaPfbG/M-c6UAy_TGU.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Kemal Sunal: sARK BuLBuLu - HD - KEMAL SUNAL FILMLERI 
+http://podsync.net/download/1B2iaPfbG/1JXRPGJhnNM.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Kemal Sunal: sENDUL sABAN - HD - KEMAL SUNAL FILMLERI 
+http://podsync.net/download/1B2iaPfbG/Mh4QRLXgTIk.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Kemal Sunal: TOKATci - HD - KEMAL SUNAL FILMLERI 
+http://podsync.net/download/1B2iaPfbG/JVeM7oueWyc.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Kemal Sunal: uc KAGiTCi - HD - KEMAL SUNAL FILMLERI 
+http://podsync.net/download/1B2iaPfbG/-a5e8NvLa3U.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Kemal Sunal: YEDI BELA HuSNu - HD - KEMAL SUNAL FILMLERI 
+http://podsync.net/download/1B2iaPfbG/CFXuMJhBNsk.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Kemal Sunal:AVANAK APTI- HD 
+http://podsync.net/download/1B2iaPfbG/-yxY0eVfiNE.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Kemal Sunal:cARiKLi MILYONER 
+http://podsync.net/download/1B2iaPfbG/eP21Ca-fCoY.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Kemal Sunal:EN BuYuK sABAN - HD 
+http://podsync.net/download/1B2iaPfbG/cPd7Zk1OpJI.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Kemal Sunal:HANZO 
+http://podsync.net/download/1B2iaPfbG/GjcOQpC-TjY.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Kemal Sunal:iBO ILE GuLLusAH 
+http://podsync.net/download/1B2iaPfbG/2Roh7t-bkwE.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Kemal Sunal:iYI AILE cOCUgU FULL HD RESTORASYONLU 
+http://podsync.net/download/1B2iaPfbG/wMd3L3GjKxs.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Kemal Sunal:KORKUSUZ KORKAK - HD 
+http://podsync.net/download/1B2iaPfbG/HUr8SCzNyN8.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Kemal Sunal:POLIZEI 
+http://podsync.net/download/1B2iaPfbG/b05iYkJERxs.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Kemal Sunal:sABANIYE HD 
+http://podsync.net/download/1B2iaPfbG/EODPyKfRnBU.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Kemal Sunal:SAHTE KABADAYi 
+http://podsync.net/download/1B2iaPfbG/2szX_F0ALGY.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Kemal Sunal:SAKAR sAKIR - HD 
+http://podsync.net/download/1B2iaPfbG/M-c6UAy_TGU.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Kemal Sunal:sARK BuLBuLu - HD 
+http://podsync.net/download/1B2iaPfbG/1JXRPGJhnNM.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Kemal Sunal:sENDUL sABAN - HD 
+http://podsync.net/download/1B2iaPfbG/Mh4QRLXgTIk.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Kemal Sunal:TOKATci - HD 
+http://podsync.net/download/1B2iaPfbG/JVeM7oueWyc.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Kemal Sunal:uc KAGiTCi - HD 
+http://podsync.net/download/1B2iaPfbG/-a5e8NvLa3U.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",Kemal Sunal:YEDI BELA HuSNu - HD 
+http://podsync.net/download/1B2iaPfbG/CFXuMJhBNsk.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",KiNALi HANZO - TuRK FILMI 
+http://podsync.net/download/HgcKa_LGG/PRxhGUCDVLo.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",KIRPI - TuRK FILMI 
+http://podsync.net/download/HgcKa_LGG/r6EkVpgk1aU.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",KoSTEBEKGILLER 2 : GoLGENIN TiLSiMi - TuRK FILMI(FULL HD) 
+http://podsync.net/download/HgcKa_LGG/dlfPXjqli4A.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",LEYLA iLE MECNUN - HD FILM (RESTORASYONLU) 
+http://podsync.net/download/16Q6tPfGG/lZ7uuyfaAJk.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",MASKELI BEsLER IRAK - HD FILM (RESTORASYONLU) 
+http://podsync.net/download/16Q6tPfGG/b87CKSRGotY.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",MASKELI BEsLER KiBRiS - HD FILM (RESTORASYONLU) 
+http://podsync.net/download/16Q6tPfGG/Ir2mOuZIMzY.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",MASKELI BEsLER: iNTIKAM PEsINDE - HD FILM (RESTORASYONLU ) 
+http://podsync.net/download/16Q6tPfGG/nzcRVGMiXBE.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",MEcHUL KADiN- HD FILM (RESTORASYONLU) 
+http://podsync.net/download/16Q6tPfGG/aUGGJAA7xRs.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",MEMLEKETIM - HD FILM (RESTORASYONLU) 
+http://podsync.net/download/16Q6tPfGG/iQbx6qLh2O0.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",MURAT iLE NAZLi - HD FILM (RESTORASYONLU) 
+http://podsync.net/download/16Q6tPfGG/l2j9dWzjKFc.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",N'APCAZ sIMDI?- TuRK FILMI (HD) 
+http://podsync.net/download/HgcKa_LGG/zsnOTWv2lEk.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",OgLUM OSMAN - HD FILM (RESTORASYONLU) 
+http://podsync.net/download/16Q6tPfGG/nD6LfY5q7m4.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",ogRETMEN - TuRK FILMI (RESTORASYONLU) 
+http://podsync.net/download/HgcKa_LGG/eN41guxlp0c.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",oLDuR BENI- TuRK FILMI (HD) 
+http://podsync.net/download/HgcKa_LGG/8b7l0t73nYw.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",oLDuRME DOSTUNA SAHIP ciK 
+http://podsync.net/download/HgcKa_LGG/u2yz8QnH91U.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",oLMus BIR KADiNiN MEKTUPLARi - HD FILM (RESTORASYONLU) 
+http://podsync.net/download/16Q6tPfGG/PrLJW8JQbE8.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",POSTACi - TuRK FILMI (RESTORASYONLU) 
+http://podsync.net/download/16Q6tPfGG/w9wgwBM3pQo.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",POSTACi - TuRK FILMI (RESTORASYONLU) 
+http://podsync.net/download/HgcKa_LGG/w9wgwBM3pQo.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",SAFTIRIKLER - TuRK FILMI (HD) 
+http://podsync.net/download/HgcKa_LGG/hy5O05LQdyM.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",SAGU VE PAGU - FRAGMAN 
+http://podsync.net/download/HgcKa_LGG/3pi7OreAs3A.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",SINYALCILER - TuRK FILMI(FULL HD) 
+http://podsync.net/download/HgcKa_LGG/mgfDGr3mRCQ.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",SoZuN BITTIgI YER- HD FILM (RESTORASYONLU) 
+http://podsync.net/download/16Q6tPfGG/fRMEbfkSiz8.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",SULTAN GELIN - HD FILM (RESTORASYONLU) 
+http://podsync.net/download/16Q6tPfGG/amEfqCYwwQA.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",SuNNET DAVASi - TuRK FILMI 
+http://podsync.net/download/HgcKa_LGG/U-L9I4FiQTs.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",SuPER AJAN K9 -TuRK FILMI (HD) 
+http://podsync.net/download/HgcKa_LGG/2Ynw2eeZJmM.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",SuREYYA - HD FILM (RESTORASYONLU) 
+http://podsync.net/download/16Q6tPfGG/OJ8QpWtblFU.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",TATLi sEYLER - TuRK FILMI HD 
+http://podsync.net/download/HgcKa_LGG/n3EN5CAOIOU.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",TURIST oMER - HD FILM (RESTORASYONLU) 
+http://podsync.net/download/16Q6tPfGG/yCpnw1L2sD8.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",TURIST oMER ARABISTANDA - TuRK FILMI 
+http://podsync.net/download/16Q6tPfGG/eqIpWZSK9qM.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",TURIST oMER BOgA GuREscISI - HD FILM (RESTORASOYONLU) 
+http://podsync.net/download/16Q6tPfGG/U-8gsMAnmzI.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",TURIST oMER UZAY YOLUNDA - HD FILM (RESTORASYONLU) 
+http://podsync.net/download/16Q6tPfGG/6aSx-w70AdA.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",TURIST oMER UZAY YOLUNDA- HD FILM (RESTORASYONLU) 
+http://podsync.net/download/HgcKa_LGG/vQJcqUZDFPU.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",TURIST oMER YAMYAMLAR ARASiNDA - HD FILM (RESTORASYONLU) 
+http://podsync.net/download/16Q6tPfGG/4tWZRDwpqYo.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",TUTMAYiN BENI - TuRK FILMI 
+http://podsync.net/download/HgcKa_LGG/hYOhaHG4UZ4.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",uc ARKADAs - HD FILM (RESTORASYONLU) 
+http://podsync.net/download/16Q6tPfGG/okdVfV-MLxQ.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",UTANMAZ ADAM 
+http://podsync.net/download/HgcKa_LGG/Vlrqtet7CiA.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",UYANiK KARDEsLER - HD FILM (RESTORASYONLU) 
+http://podsync.net/download/16Q6tPfGG/owcnwlsmKkE.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",YANAsMA - HD FILM (RESTORASYONLU) 
+http://podsync.net/download/16Q6tPfGG/Pvp8IVwseYU.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",YiLANLARiN oCu - HD FILM (RESTORASYONLU) 
+http://podsync.net/download/16Q6tPfGG/u-aR3apPFpo.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",YuZ BIN KIBRIT - TuRK FILMI 
+http://podsync.net/download/HgcKa_LGG/oSd-w3uuhkE.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",YuZ NUMARALi ADAM - HD FILM(RESTORASYONLU) 
+http://podsync.net/download/16Q6tPfGG/Z7oLqdR2zIA.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",ZEHIR HAFIYE - HD FILM (RESTORASYONLU)(KEMAL SUNAL) 
+http://podsync.net/download/16Q6tPfGG/N7IgZK9vyCY.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",ZEHRA - HD FILM (RESTORASYONLU) 
+http://podsync.net/download/16Q6tPfGG/coAvyl2a8is.mp4 
+#EXTINF:-1 group-title="VOD Turk Filmleri",ZOR ADAM - TuRK FILMI 
+http://podsync.net/download/HgcKa_LGG/ran2AD99vaA.mp4 
