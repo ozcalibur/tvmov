@@ -9,7 +9,7 @@ https://tv-trt1.medya.trt.com.tr/master.m3u8
 https://tv-trt2.medya.trt.com.tr/master.m3u8
 
 
-#EXTINF:-1 group-title="Turkiye",ATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HyVUwFC.png" group-title="Turkiye",ATV
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 
 
