@@ -27,7 +27,7 @@ https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 #EXTINF:-1 group-title=“Turkiye EU",Kanal D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 
-#EXTINF:-1 group-title="Turkiye", Star TV 
+#EXTINF:-1 group-title="Turkiye", Star
 https://dogus-live.daioncdn.net/startv/startv.m3u8
 
 
@@ -38,7 +38,7 @@ https://canlitvTurkiye.xyz/live/eurostar/index.m3u8
 
 
 
-#EXTINF:-1 group-title="Turkiye", Show TV 
+#EXTINF:-1 group-title="Turkiye", SHOW
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 
 
