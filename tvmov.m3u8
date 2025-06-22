@@ -1,12 +1,6 @@
 #EXTM3U
 
 
-
-#EXTINF:-1 group-title="Turkiye",PLAY TV
-https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
-
-
-
 #EXTINF:-1 group-title="Turkiye",TRT 1 HD
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 
@@ -123,10 +117,6 @@ https://uzunmuhalefet.serv00.net/canlitv2.php?id=13406&.m3u8
 
 #EXTINF:-1 group-title="Turkiye",  TRT Türk 
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
-
-
-#EXTINF:-1 group-title="Turkiye",PLAY TV
-https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
 
 
 #EXTINF:-1 group-title="Spor", TRT Spor 
@@ -495,8 +485,6 @@ https://canlitvTurkiye.xyz/live/tarimtv/index.m3u8
 https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8 
 
 
-
-
 #EXTINF:-1 group-title="Sinema", Play Tv
 https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
 
@@ -849,1297 +837,1446 @@ https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
 #EXTINF:-1 group-title="Müzik",Power Türk Akustik
 https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Müzik",Vevo Latino (1080p)
+#EXTINF:-1 group-title="Müzik",Vevo Latino
 https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Müzik",70-80 TV (1080P)
+#EXTINF:-1 group-title="Müzik",70-80 TV
 https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
 
-#EXTINF:-1 group-title="Müzik",NEW K-POP (1080p)
+#EXTINF:-1 group-title="Müzik",NEW K-POP
 https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Müzik",Afrobeats (1080p)
+#EXTINF:-1 group-title="Müzik",Afrobeats
 https://stream.ecable.tv/afrobeats/index.m3u8
 
-#EXTINF:-1 group-title="Müzik",BTA TV (720p)
+#EXTINF:-1 group-title="Müzik",BTA TV
 https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
 
-#EXTINF:-1 group-title="Müzik",Muzzik POP STAR (720p)
+#EXTINF:-1 group-title="Müzik",Muzzik POP STAR
 https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
 
-#EXTINF:-1 group-title="Müzik",Avang TV (720p)
+#EXTINF:-1 group-title="Müzik",Avang TV
 https://hls.avang.live/hls/stream.m3u8
 
-#EXTINF:-1 tvg-name="Cool FM 98.9 (720p)" tvg-id="CoolFM989.aw" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Müzik",Cool FM 98.9 (720p)
+#EXTINF:-1 group-title="Müzik",Cool FM 98.9
 https://live2.tensila.com/cool-v-1.arubara/hls/master.m3u8
 
-#EXTINF:-1 tvg-name="Muzzik ELECTRO (720p)" tvg-id="ELECTRO.rs" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Müzik",Muzzik ELECTRO (720p)
+#EXTINF:-1 group-title="Müzik",Muzzik ELECTRO
 https://muzzik-live.morescreens.com/mts-9/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Vevo Pop" tvg-id="VevoPop.us@SD" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Müzik",Vevo Pop
+#EXTINF:-1 group-title="Müzik",Vevo Pop
 https://amg00056-amg00056c9-rakuten-fr-3243.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevopopfr-rakutenfr/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Atomic Academy TV (480p)" tvg-id="AtomicAcademyTV.ro" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Müzik",Atomic Academy TV (480p)
+#EXTINF:-1 group-title="Müzik",Atomic Academy TV (480p)
 https://atomic.streamnet.ro/academia.m3u8
 
-#EXTINF:-1 tvg-name="Number 1 Damar (720p)" tvg-id="Number1Damar.tr" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Müzik",Number 1 Damar (720p)
+#EXTINF:-1 group-title="Müzik",Number 1 Damar
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
 
 
-
-#EXTINF:-1 tvg-name="Baraza TV Relaxing (720p)" tvg-id="BarazaTVRelaxing.gr" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Müzik",Baraza TV Relaxing (720p)
+#EXTINF:-1 group-title="Müzik",Baraza TV Relaxing
 https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
-#EXTINF:-1 tvg-name="Angienet TV" tvg-id="AngienetTV.pe@SD" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Müzik",Angienet TV
+
+#EXTINF:-1 group-title="Müzik",Angienet TV
 https://servilive.com:3624/stream/play.m3u8
-#EXTINF:-1 tvg-name="Worldwide Muzzik (720p)" tvg-id="WORLDWIDEMUZZIK.rs" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Müzik",Worldwide Muzzik (720p)
+
+#EXTINF:-1 group-title="Müzik",Worldwide Muzzik
 https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
-#EXTINF:-1 tvg-name="Muzzik SENSE (720p)" tvg-id="SENSE.rs" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Müzik",Muzzik SENSE (720p)
+
+#EXTINF:-1 group-title="Müzik",Muzzik SENSE
 https://muzzik-live.morescreens.com/mts-7/playlist.m3u8
-#EXTINF:-1 tvg-name="Muzzik ZZ TV (720p)" tvg-id="ZZTV.rs" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Müzik",Muzzik ZZ TV (720p)
+
+#EXTINF:-1 group-title="Müzik",Muzzik ZZ TV
 https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
-#EXTINF:-1 tvg-name="98.1 Pearl FM (720p)" tvg-id="981PearlFM.sx" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Müzik",98.1 Pearl FM (720p)
+
+#EXTINF:-1 group-title="Müzik",98.1 Pearl FM
 https://live2.tensila.com/pearl-v-1.pearlfm/hls/live/mystream.m3u8
-#EXTINF:-1 tvg-name="MTV Live" tvg-id="MTVLive.us" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Müzik",MTV Live
+
+#EXTINF:-1 group-title="Müzik",MTV Live
 https://fl3.moveonjoy.com/MTV_LIVE/index.m3u8
-#EXTINF:-1 tvg-name="Muzzik FLASHBACK (720p)" tvg-id="FLASHBACK.rs" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Müzik",Muzzik FLASHBACK (720p)
+
+#EXTINF:-1 group-title="Müzik",Muzzik FLASHBACK
 https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
-#EXTINF:-1 tvg-name="Number 1 Ask (720p)" tvg-id="Number1Ask.tr" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Müzik",Number 1 Ask (720p)
+
+#EXTINF:-1 group-title="Müzik",Number 1 Ask
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
-#EXTINF:-1 tvg-name="Activa TV (720p)" tvg-id="ActivaTV.es" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Müzik",Activa TV (720p)
+
+#EXTINF:-1 group-title="Müzik",Activa TV
 https://streamtv.mediasector.es/hls/activatv/index.m3u8
-#EXTINF:-1 tvg-name="California Music Channel (720p) [Not 24/7]" tvg-id="CaliforniaMusicChannel.us" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Müzik",California Music Channel (720p) [Not 24/7]
+
+#EXTINF:-1 group-title="Müzik",California Music Channel [Not 24/7]
 https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8
-#EXTINF:-1 tvg-name="Muzzik TIKTAK (720p)" tvg-id="TIKTAK.rs" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Müzik",Muzzik TIKTAK (720p)
+
+#EXTINF:-1 group-title="Müzik",Muzzik TIKTAK
 https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
-#EXTINF:-1 tvg-name="Clubbing TV (720p)" tvg-id="ClubbingTV.us@Spain" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Müzik",Clubbing TV (720p)
+
+#EXTINF:-1 group-title="Müzik",Clubbing TV
 https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Nick Music (720p)" tvg-id="NickMusic.us" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp" group-title="Müzik",Nick Music (720p)
+
+#EXTINF:-1 group-title="Müzik",Nick Music
 https://fl3.moveonjoy.com/NICK_MUSIC/index.m3u8
-
-#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Play TV Sinema 
-https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
-#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Annem Ankara
-http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Annem.Ankara.SON.mkv
-#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Arka Sokaklar
-http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Arka.Sokaklar.SON.mkv
-#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Aşk Evlilik Boşanma
-http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Ask.Evlilik.Bosanma.SON.mkv
-#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Bahar
-http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Bahar.SON.mkv
-#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Başka Bir Gün
-http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Baska.Bir.Gun.SON.mkv
-#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Bir Gece Masalı
-http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Bir.Gece.Masali.SON.mkv
-#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Bir Zamanlar Istanbul
-http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Bir.Zamanlar.Istanbul.SON.mkv
-#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Can Borcu
-http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Can.Borcu.SON.mkv
-#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Deha
-http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Deha.SON.mkv
-#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Esref Rüya
-http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Esref.Ruya.SON.mkv
-#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Gizli Bahçe
-http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Gizli.Bahce.SON.mkv
-#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Gönül Dağı
-http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Gonul.Dagi.SON.mkv
-
-#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Güldür Güldür Show 
-http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Guldur.Guldur.Show.SON.mkv
-
-#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Holding
-http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Holding.SON.mkv
-#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Hudutsuz Sevda
-http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Hudutsuz.Sevda.SON.mkv
-
-#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",İnci Taneleri 
-http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Inci.Taneleri.SON.mkv
-
-#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Uzak Şehir
-http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Uzak.Sehir.SON.mkv
-#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Kalpazan
-http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kalpazan.SON.mkv
-#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Kardelenler
-http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kardelenler.SON.mkv
-#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Konuşanlar
-http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Konusanlar.SON.mkv
-#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Kral Kabederse
-http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kral.Kaybederse.SON.mkv
-#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Kudüs Fatihi Selahaddin Eyyubi
-http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Selahaddin.Eyyubi.SON.mkv
-#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Kuruluş Osman
-http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Kurulus.Osman.SON.mkv
-#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Leyla
-http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Leyla.SON.mkv
-#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Mehmed Fetihler Sultanı
-http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Mehmed.Fetihler.Sultani.SON.mkv
-#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Piyasa
-http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Piyasa.SON.mkv
-#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Sahipsizler
-http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Sahipsizler.SON.mkv
-#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Sandık Kokusu
-http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Sandik.Kokusu.SON.mkv
-#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Selahaddin Eyyubi
-http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Selahaddin.Eyyubi.SON.mkv
-#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Siyah Kalp
-http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Siyah.Kalp.SON.mkv
-
-#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Sustalı Ceylan
-http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Sustali.Ceylan.SON.mkv
-
-#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Teşkilat
-http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Teskilat.SON.mkv
-#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Yalan
-http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Yalan.SON.mkv
-#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Yalı Çapkını
-http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Yali.Capkini.SON.mkv
-#EXTINF:-1 group-title="Play Tv | Dizi Son Bölüm",Zembilli
-http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Zembilli.SON.mkv
 
 
 #EXTINF:0 tvg-rec="3",Sky Sport Mix HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/5039/index.m3u8
+
 #EXTINF:0 tvg-rec="3",Sky Sport Golf HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/5043/index.m3u8
+
 #EXTINF:0 tvg-rec="3",Sky Sport Premier League HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/5042/index.m3u8
+
 #EXTINF:0 tvg-rec="3",SYFY HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6092/index.m3u8
+
 #EXTINF:0 tvg-rec="3",Sky Cinema HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/2484/index.m3u8
+
 #EXTINF:0 tvg-rec="3",Sky Cinema Highlights HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/2485/index.m3u8
+
 #EXTINF:0 tvg-rec="3",Sky Atlantic HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/2488/index.m3u8
+
 #EXTINF:0 tvg-rec="3",Sky Cinema Family HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/2489/index.m3u8
+
 #EXTINF:0 tvg-rec="3",Sky Cinema Classics HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/2490/index.m3u8
+
 #EXTINF:0 tvg-rec="3",Sky Krimi HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/2491/index.m3u8
+
 #EXTINF:0 tvg-rec="3",Sky Arts HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/2494/index.m3u8
+
 #EXTINF:0 tvg-rec="3",Sky Sport News HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/2477/index.m3u8
+
 #EXTINF:0 tvg-rec="3",Sky Sport 1 FHD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/2478/index.m3u8
+
 #EXTINF:0 tvg-rec="3",Sky Sport 2 HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/2479/index.m3u8
+
 #EXTINF:0 tvg-rec="3",Sky Sport Bundesliga 1 HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/2480/index.m3u8
+
 #EXTINF:0 tvg-rec="3",Sky Sport Austria 1 HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/2492/index.m3u8
+
 #EXTINF:0 tvg-rec="3",Sport 1 HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/2503/index.m3u8
+
 #EXTINF:0 tvg-rec="3",ZDF HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6059/index.m3u8
+
 #EXTINF:0 tvg-rec="0",ZDFinfo HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/17042/index.m3u8
+
 #EXTINF:0 tvg-rec="3",VOX HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6061/index.m3u8
+
 #EXTINF:0 tvg-rec="3",Universal TV FHD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6094/index.m3u8
+
 #EXTINF:0 tvg-rec="3",Warner TV Serie HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6090/index.m3u8
+
 #EXTINF:0 tvg-rec="3",Warner TV Film DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6111/index.m3u8
+
 #EXTINF:0 tvg-rec="3",Toggo DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6063/index.m3u8
+
 #EXTINF:0 tvg-rec="3",Spiegel Geschichte FHD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6091/index.m3u8
+
 #EXTINF:0 tvg-rec="3",Sky Sport Bundesliga 9 FHD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6097/index.m3u8
+
 #EXTINF:0 tvg-rec="3",Sky Sport Austria 2 HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6113/index.m3u8
+
 #EXTINF:0 tvg-rec="3",Sat.1 HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6060/index.m3u8
+
 #EXTINF:0 tvg-rec="3",Nitro FHD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6064/index.m3u8
+
 #EXTINF:0 tvg-rec="3",RTL HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6062/index.m3u8
+
 #EXTINF:0 tvg-rec="3",RTL Zwei HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6065/index.m3u8
+
 #EXTINF:0 tvg-rec="3",ProSieben HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6057/index.m3u8
+
 #EXTINF:0 tvg-rec="3",ProSieben Maxx FHD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6058/index.m3u8
+
 #EXTINF:0 tvg-rec="3",Kabel Eins HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6067/index.m3u8
+
 #EXTINF:0 tvg-rec="3",Comedy Central HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6081/index.m3u8
+
 #EXTINF:0 tvg-rec="3",Motorvision TV DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6112/index.m3u8
+
 #EXTINF:0 tvg-rec="0",RTL Passion HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/7230/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Romance TV DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/7231/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Sky Sport Bundesliga 2 HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/7234/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Sky Sport Bundesliga 3 HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/7235/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Sky Sport Bundesliga 4 HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/7236/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Sky Sport Bundesliga 5 HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/7237/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Sky Sport Bundesliga 6 HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/7238/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Sky Sport Bundesliga 7 HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/7239/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Sky Sport Bundesliga 8 HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/7240/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Sky Sport Bundesliga 9 HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/7241/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Phoenix DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/7255/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Nat Geo Wild HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/7256/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Animal Planet HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/7257/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Welt DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/7258/index.m3u8
+
 #EXTINF:0 tvg-rec="0",N-TV FHD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/7259/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Welt HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/15169/index.m3u8
+
 #EXTINF:0 tvg-rec="0",SIXX HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/15170/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Arte DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/15171/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Das Erste HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/15172/index.m3u8
+
 #EXTINF:0 tvg-rec="0",WDR HD (Aachen) DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/15173/index.m3u8
+
 #EXTINF:0 tvg-rec="0",ProSieben Maxx HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/15174/index.m3u8
+
 #EXTINF:0 tvg-rec="0",KiKA FHD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/15175/index.m3u8
+
 #EXTINF:0 tvg-rec="0",ATV DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/15176/index.m3u8
+
 #EXTINF:0 tvg-rec="0",ORF 1 HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/15177/index.m3u8
+
 #EXTINF:0 tvg-rec="0",RTL Crime HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/15178/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Eurosport 1 FHD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/15179/index.m3u8
+
 #EXTINF:0 tvg-rec="0",HR FHD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/15180/index.m3u8
+
 #EXTINF:0 tvg-rec="0",NDR HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/15181/index.m3u8
+
 #EXTINF:0 tvg-rec="0",ARD Alpha FHD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/16058/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Sky One HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19000/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Sky Crime HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19001/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Sky Showcase HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19003/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Sky Cinema Classics DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19005/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Sky Replay HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19006/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Sky Cinema Family FHD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19008/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Sky Atlantic FHD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19009/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Sky Cinema Highlights FHD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19013/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Sky Cinema Premieren HD
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19014/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Sky Cinema Classics FHD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19017/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Sky Krimi FHD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19019/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Sky Nature HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19020/index.m3u8
 
 #EXTINF:0 tvg-rec="0",Sky Documentaries HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19021/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Sky Sport F1 HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19022/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Sportdigital 1+ HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19023/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Sky Sport F1 DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19027/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Sky Sport 1 HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19028/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Sky Sport 3 HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19030/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Sky Sport 4 HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19031/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Sky Sport 5 HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19032/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Sky Sport 6 HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19033/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Sky Sport 7 HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19034/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Sky Sport 8 HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19035/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Sky Sport 9 HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19036/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Sky Sport 10 HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19037/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Sky Sport Austria 4 HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19038/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Eurosport 360 HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19040/index.m3u8
+
 #EXTINF:0 tvg-rec="0",DAZN 1 HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19042/index.m3u8
+
 #EXTINF:0 tvg-rec="0",DAZN 2 HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19043/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Sky Sport UHD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19044/index.m3u8
+
 #EXTINF:0 tvg-rec="0",History HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/20017/index.m3u8
+
 #EXTINF:0 tvg-rec="0",History FHD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/20039/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Discovery Channel HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/20040/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Cartoonito DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/20042/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Nick Jr. HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/20043/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Warner TV Film HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/20045/index.m3u8
+
 #EXTINF:0 tvg-rec="0",#dabeiTV HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31279/index.m3u8
+
 #EXTINF:0 tvg-rec="0",1-2-3.tv HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31280/index.m3u8
+
 #EXTINF:0 tvg-rec="0",13th Street HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31281/index.m3u8
+
 #EXTINF:0 tvg-rec="0",3sat HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31282/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Al Jazeera English HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31283/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Animal Planet FHD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31284/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Anixe HD Serie DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31285/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Anixe+ HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31286/index.m3u8
+
 #EXTINF:0 tvg-rec="0",ARD Alpha HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31287/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Arte HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31288/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Asharq News HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31289/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Auto Motor und Sport FHD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31290/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Ballermann TV HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31291/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Bergblick HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31292/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Bibel TV HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31293/index.m3u8
+
 #EXTINF:0 tvg-rec="0",BonGusto HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31296/index.m3u8
+
 #EXTINF:0 tvg-rec="0",BR Fernsehen HD (Süd) DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31297/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Cartoon Network DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31298/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Cartoonito HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31299/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Channel 21 HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31300/index.m3u8
+
 #EXTINF:0 tvg-rec="0",CNN International HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31301/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Comedy Central FHD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31302/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Craction HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31303/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Crime + Investigation HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31304/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Curiosity Channel HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31305/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Das Erste DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31306/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Deluxe Music FHD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31307/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Deutsches Musik Fernsehen HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31308/index.m3u8
+
 #EXTINF:0 tvg-rec="0",DMAX HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31310/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Euronews Deutsch DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31313/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Eurosport 1 HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31314/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Eurosport 2 HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31315/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Fashion TV HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31316/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Folx Music Television HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31317/index.m3u8
+
 #EXTINF:0 tvg-rec="0",France 24 English HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31318/index.m3u8
+
 #EXTINF:0 tvg-rec="0",France 24 Francais HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31319/index.m3u8
+
 #EXTINF:0 tvg-rec="0",GEO Television HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31321/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Heimatkanal DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31322/index.m3u8
+
 #EXTINF:0 tvg-rec="0",HGTV HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31323/index.m3u8
+
 #EXTINF:0 tvg-rec="0",HR HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31324/index.m3u8
+
 #EXTINF:0 tvg-rec="0",HSE HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31325/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Inplus HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31326/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Jukebox HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31327/index.m3u8
+
 #EXTINF:0 tvg-rec="0",K-TV DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31328/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Kabel Eins DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31329/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Kabel Eins Classics HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31330/index.m3u8
 
-
 #EXTINF:0 tvg-rec="0",Kabel Eins Doku HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31331/index.m3u8
+
 #EXTINF:0 tvg-rec="0",KiKA HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31332/index.m3u8
+
 #EXTINF:0 tvg-rec="0",KinoweltTV HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31333/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Magenta Musik 1 HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31335/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Magenta Musik 2 HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31336/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Magenta Sport HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31337/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Marco Polo TV HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31339/index.m3u8
+
 #EXTINF:0 tvg-rec="0",MDR Fernsehen HD (Sachsen) DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31340/index.m3u8
+
 #EXTINF:0 tvg-rec="0",More Than Sports TV HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31341/index.m3u8
+
 #EXTINF:0 tvg-rec="0",MyTeam TV 1 HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31343/index.m3u8
+
 #EXTINF:0 tvg-rec="0",MTV HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31344/index.m3u8
+
 #EXTINF:0 tvg-rec="0",N-TV HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31345/index.m3u8
+
 #EXTINF:0 tvg-rec="0",N24 Doku HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31346/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Nat Geo Wild FHD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31348/index.m3u8
+
 #EXTINF:0 tvg-rec="0",NDR HD (Niedersachsen) DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31349/index.m3u8
+
 #EXTINF:0 tvg-rec="0",KiKA DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31350/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Nick/Comedy Central+1 DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31351/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Nitro HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31352/index.m3u8
+
 #EXTINF:0 tvg-rec="0",One HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31353/index.m3u8
+
 #EXTINF:0 tvg-rec="0",One Music Television HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31354/index.m3u8
+
 #EXTINF:0 tvg-rec="0",OUTtv HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31355/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Phoenix HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31357/index.m3u8
+
 #EXTINF:0 tvg-rec="0",ProSieben FHD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31359/index.m3u8
+
 #EXTINF:0 tvg-rec="0",ProSieben Fun HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31360/index.m3u8
+
 #EXTINF:0 tvg-rec="0",ProSieben Maxx DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31361/index.m3u8
+
 #EXTINF:0 tvg-rec="0",QVC HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31362/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Radio Bremen TV HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31363/index.m3u8
+
 #EXTINF:0 tvg-rec="0",rbb Fernsehen HD (Berlin) DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31364/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Red Bull TV HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31365/index.m3u8
+
 #EXTINF:0 tvg-rec="0",RiC HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31366/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Romance TV HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31367/index.m3u8
+
 #EXTINF:0 tvg-rec="0",RTL FHD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31368/index.m3u8
+
 #EXTINF:0 tvg-rec="0",RTL Passion DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31369/index.m3u8
+
 #EXTINF:0 tvg-rec="0",RTL Passion FHD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31370/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Tagesschau24 HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31371/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Sat.1 Gold HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31378/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Schlager Deluxe HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31379/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Sat.1 DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31380/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Sat.1 Emotions HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31381/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Sat.1 Gold DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31382/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Schlager Deluxe DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31383/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Schlagerparadies.TV HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31384/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Servus TV Motorsport HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31385/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Shop LC HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31387/index.m3u8
+
 #EXTINF:0 tvg-rec="0",SIXX FHD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31388/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Sonnenklar.TV HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31389/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Spiegel Geschichte HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31392/index.m3u8
+
 #EXTINF:0 tvg-rec="0",MyTeam TV 18 HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31402/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Sportdigital 1+ DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31411/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Sportdigital Fussball FHD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31413/index.m3u8
+
 #EXTINF:0 tvg-rec="0",SR Fernsehen HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31414/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Stingray Classica HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31415/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Stingray DJAZZ HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31416/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Stingray iConcerts HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31417/index.m3u8
+
 #EXTINF:0 tvg-rec="0",SWR Fernsehen BW HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31419/index.m3u8
+
 #EXTINF:0 tvg-rec="0",SWR Fernsehen RP HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31420/index.m3u8
+
 #EXTINF:0 tvg-rec="0",History DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31424/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Toggo Plus HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31426/index.m3u8
+
 #EXTINF:0 tvg-rec="0",TravelXP HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31427/index.m3u8
+
 #EXTINF:0 tvg-rec="0",TV5 Monde Europe HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31428/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Universal TV HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31429/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Volksmusik.TV HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31430/index.m3u8
+
 #EXTINF:0 tvg-rec="0",VOX DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31431/index.m3u8
+
 #EXTINF:0 tvg-rec="0",VOXup DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31432/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Warner TV Comedy HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31433/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Warner TV Film FHD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31434/index.m3u8
 
-
 #EXTINF:0 tvg-rec="0",WDR HD (Köln) DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31436/index.m3u8
+
 #EXTINF:0 tvg-rec="0",WedoTV Movies HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31437/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Welt FHD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31438/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Welt der Wunder HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31439/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Wetter.com DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31440/index.m3u8
+
 #EXTINF:0 tvg-rec="0",ZDF DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31441/index.m3u8
+
 #EXTINF:0 tvg-rec="0",ZDFinfo DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31442/index.m3u8
+
 #EXTINF:0 tvg-rec="0",ZDFneo HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31443/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Zwei Music Television HD DE
-#EXTGRP:Play Tv | Germany
+#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31444/index.m3u8
 
 
 
 #EXTINF:0 tvg-rec="3",Food Network HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/1107/index.m3u8
 #EXTINF:0 tvg-rec="3",Tennis Channel FHD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6096/index.m3u8
 #EXTINF:0 tvg-rec="3",MoreMax HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6152/index.m3u8
 #EXTINF:0 tvg-rec="3",ThrillerMax HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6153/index.m3u8
 #EXTINF:0 tvg-rec="3",OuterMax HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6154/index.m3u8
 #EXTINF:0 tvg-rec="3",MovieMax HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6155/index.m3u8
 #EXTINF:0 tvg-rec="0",NHL Network US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/7225/index.m3u8
 #EXTINF:0 tvg-rec="0",NBA TV HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/7226/index.m3u8
 #EXTINF:0 tvg-rec="3",ION Television HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/901/index.m3u8
 #EXTINF:0 tvg-rec="3",NYCTV Life HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/902/index.m3u8
 #EXTINF:0 tvg-rec="3",CBS New York
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/903/index.m3u8
 #EXTINF:0 tvg-rec="3",Hallmark Movies & Mysteries HD
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/1075/index.m3u8
 #EXTINF:0 tvg-rec="3",Telemundo HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/1080/index.m3u8
 #EXTINF:0 tvg-rec="3",NBC New York HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/1081/index.m3u8
 #EXTINF:0 tvg-rec="3",Disney XD HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/1082/index.m3u8
 #EXTINF:0 tvg-rec="3",AMC HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/1083/index.m3u8
 #EXTINF:0 tvg-rec="3",HGTV FHD
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/1084/index.m3u8
 #EXTINF:0 tvg-rec="3",truTV HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/1085/index.m3u8
 #EXTINF:0 tvg-rec="3",MAVTV HD
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/1074/index.m3u8
 #EXTINF:0 tvg-rec="3",ABC HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/1087/index.m3u8
 #EXTINF:0 tvg-rec="3",Fox 5 WNYW HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/1086/index.m3u8
 #EXTINF:0 tvg-rec="3",MY9 New Jersey HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/1088/index.m3u8
 #EXTINF:0 tvg-rec="3",MotorTrend HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/1091/index.m3u8
 #EXTINF:0 tvg-rec="3",BBC America HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/1092/index.m3u8
 #EXTINF:0 tvg-rec="3",WPIX HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/1090/index.m3u8
 #EXTINF:0 tvg-rec="3",Thirteen HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/1093/index.m3u8
 #EXTINF:0 tvg-rec="3",WLIW HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/1094/index.m3u8
 #EXTINF:0 tvg-rec="3",New Jersey PBS HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/1095/index.m3u8
 #EXTINF:0 tvg-rec="3",MeTV HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/1096/index.m3u8
 #EXTINF:0 tvg-rec="3",WMBC-TV HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/1098/index.m3u8
 #EXTINF:0 tvg-rec="3",Univision HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/1099/index.m3u8
 #EXTINF:0 tvg-rec="3",UniMás HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/1100/index.m3u8
 #EXTINF:0 tvg-rec="3",USA HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/1101/index.m3u8
 #EXTINF:0 tvg-rec="3",TNT HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/1102/index.m3u8
 #EXTINF:0 tvg-rec="3",TBS US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/1103/index.m3u8
 #EXTINF:0 tvg-rec="3",TLC HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/1105/index.m3u8
 #EXTINF:0 tvg-rec="3",FXM Retro HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/1106/index.m3u8
 #EXTINF:0 tvg-rec="3",A&E US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/1108/index.m3u8
 #EXTINF:0 tvg-rec="3",CNBC HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/962/index.m3u8
 #EXTINF:0 tvg-rec="0",Fox Sports 1 HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/7322/index.m3u8
 #EXTINF:0 tvg-rec="0",Fox Sports 2 HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/7323/index.m3u8
 #EXTINF:0 tvg-rec="0",CBS Sports Network HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/7324/index.m3u8
 #EXTINF:0 tvg-rec="0",MSG HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/7325/index.m3u8
 #EXTINF:0 tvg-rec="0",MSG 2 HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/7326/index.m3u8
 #EXTINF:0 tvg-rec="0",NBC Sports Network HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/7327/index.m3u8
 #EXTINF:0 tvg-rec="0",NHL Network HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/7328/index.m3u8
 #EXTINF:0 tvg-rec="0",SportsNet New York HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/11107/index.m3u8
 #EXTINF:0 tvg-rec="0",Spectrum SportsNet HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/11108/index.m3u8
 #EXTINF:0 tvg-rec="0",NESN HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/11109/index.m3u8
 #EXTINF:0 tvg-rec="0",A&E HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/30001/index.m3u8
 
 
 
 
 #EXTINF:0 tvg-rec="0",American Heroes Channel HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/30007/index.m3u8
 #EXTINF:0 tvg-rec="0",AXS TV HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/30011/index.m3u8
 #EXTINF:0 tvg-rec="0",BabyFirst TV HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/30012/index.m3u8
 #EXTINF:0 tvg-rec="0",beIN Sports En Español HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/30015/index.m3u8
 #EXTINF:0 tvg-rec="0",BET Her HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/30018/index.m3u8
 #EXTINF:0 tvg-rec="0",Bravo HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/30024/index.m3u8
 #EXTINF:0 tvg-rec="0",C-SPAN 2 HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/30026/index.m3u8
 #EXTINF:0 tvg-rec="0",C-SPAN 3 HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/30027/index.m3u8
 #EXTINF:0 tvg-rec="0",C-SPAN HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/30028/index.m3u8
 #EXTINF:0 tvg-rec="0",Cars.TV HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/30030/index.m3u8
 #EXTINF:0 tvg-rec="0",Cheddar News HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/30035/index.m3u8
 #EXTINF:0 tvg-rec="0",Comedy Central HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/30044/index.m3u8
 #EXTINF:0 tvg-rec="0",Cooking Channel HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/30045/index.m3u8
 #EXTINF:0 tvg-rec="0",Crime + Investigation HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/30046/index.m3u8
 #EXTINF:0 tvg-rec="0",Destination America HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/30051/index.m3u8
 #EXTINF:0 tvg-rec="0",Discovery Channel HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/30052/index.m3u8
 #EXTINF:0 tvg-rec="0",Discovery Family HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/30055/index.m3u8
 #EXTINF:0 tvg-rec="0",Discovery Life HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/30056/index.m3u8
 #EXTINF:0 tvg-rec="0",E! HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/30060/index.m3u8
 #EXTINF:0 tvg-rec="0",ESPN Deportes HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/30063/index.m3u8
 #EXTINF:0 tvg-rec="0",ESPNews HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/30066/index.m3u8
 #EXTINF:0 tvg-rec="0",ESPNU HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/30067/index.m3u8
 #EXTINF:0 tvg-rec="0",Flix HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/30071/index.m3u8
 #EXTINF:0 tvg-rec="0",Fox Deportes HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/30075/index.m3u8
 #EXTINF:0 tvg-rec="0",Fox News Channel HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/30076/index.m3u8
 #EXTINF:0 tvg-rec="0",Fox Sports 2 US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/30078/index.m3u8
 #EXTINF:0 tvg-rec="0",Fuse HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/30081/index.m3u8
 #EXTINF:0 tvg-rec="0",FX HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/30082/index.m3u8
 #EXTINF:0 tvg-rec="0",FYI HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/30085/index.m3u8
 #EXTINF:0 tvg-rec="0",Golf Channel HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/30089/index.m3u8
 #EXTINF:0 tvg-rec="0",Game Show Network HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/30091/index.m3u8
 #EXTINF:0 tvg-rec="0",HDNet Movies HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/30102/index.m3u8
 #EXTINF:0 tvg-rec="0",History HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/30105/index.m3u8
 #EXTINF:0 tvg-rec="0",HSN HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/30109/index.m3u8
 #EXTINF:0 tvg-rec="0",HSN2 HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/30110/index.m3u8
 #EXTINF:0 tvg-rec="0",i24 News HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/30111/index.m3u8
 #EXTINF:0 tvg-rec="0",Jewelry TV HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/30119/index.m3u8
 #EXTINF:0 tvg-rec="0",Justice Central.TV HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/30120/index.m3u8
 #EXTINF:0 tvg-rec="0",Lifetime HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/30122/index.m3u8
 #EXTINF:0 tvg-rec="0",LMN HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/30124/index.m3u8
 #EXTINF:0 tvg-rec="0",Logo HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/30126/index.m3u8
 #EXTINF:0 tvg-rec="0",Movieplex HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/30142/index.m3u8
 #EXTINF:0 tvg-rec="0",Spectrum News 1 NY HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/30148/index.m3u8
 #EXTINF:0 tvg-rec="0",Altitude Sports HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31000/index.m3u8
 #EXTINF:0 tvg-rec="0",FanDuel Sports Arizona HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31001/index.m3u8
 #EXTINF:0 tvg-rec="0",MTV2 HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31002/index.m3u8
 #EXTINF:0 tvg-rec="0",FanDuel Sports Detroit HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31003/index.m3u8
 #EXTINF:0 tvg-rec="0",FanDuel Sports Detroit Plus HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31004/index.m3u8
 #EXTINF:0 tvg-rec="0",FanDuel Sports Florida HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31005/index.m3u8
 #EXTINF:0 tvg-rec="0",FanDuel Sports Florida Plus HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31006/index.m3u8
 #EXTINF:0 tvg-rec="0",FanDuel Sports Great Lakes HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31007/index.m3u8
 #EXTINF:0 tvg-rec="0",FanDuel Sports Oklahoma HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31008/index.m3u8
 #EXTINF:0 tvg-rec="0",Newsmax TV HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31009/index.m3u8
 #EXTINF:0 tvg-rec="0",NFL Network US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31011/index.m3u8
 #EXTINF:0 tvg-rec="0",NFL RedZone HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31012/index.m3u8
 #EXTINF:0 tvg-rec="0",FanDuel Sports Southwest US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31013/index.m3u8
 #EXTINF:0 tvg-rec="0",Nick Jr. HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31014/index.m3u8
 #EXTINF:0 tvg-rec="0",FanDuel Sports New Orleans HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31015/index.m3u8
 #EXTINF:0 tvg-rec="0",NickToons HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31016/index.m3u8
 #EXTINF:0 tvg-rec="0",FanDuel Sports North HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31017/index.m3u8
 #EXTINF:0 tvg-rec="0",Outdoor Channel US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31018/index.m3u8
 #EXTINF:0 tvg-rec="0",FanDuel Sports Ohio HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31019/index.m3u8
 #EXTINF:0 tvg-rec="0",Ovation TV HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31020/index.m3u8
 #EXTINF:0 tvg-rec="0",OWN HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31021/index.m3u8
 #EXTINF:0 tvg-rec="0",FanDuel Sports Ohio Cincinnati HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31022/index.m3u8
 #EXTINF:0 tvg-rec="0",Paramount Network HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31029/index.m3u8
 #EXTINF:0 tvg-rec="0",FanDuel Sports Ohio Cleveland HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31030/index.m3u8
 #EXTINF:0 tvg-rec="0",ION Mystery HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31031/index.m3u8
 #EXTINF:0 tvg-rec="0",FanDuel Sports San Diego HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31032/index.m3u8
 #EXTINF:0 tvg-rec="0",Pets.TV HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31033/index.m3u8
 #EXTINF:0 tvg-rec="0",FanDuel Sports SoCal HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31034/index.m3u8
 #EXTINF:0 tvg-rec="0",FanDuel Sports Southeast HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31035/index.m3u8
 #EXTINF:0 tvg-rec="0",FanDuel Sports Southwest HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31036/index.m3u8
 #EXTINF:0 tvg-rec="0",QVC HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31037/index.m3u8
 #EXTINF:0 tvg-rec="0",QVC2 HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31038/index.m3u8
 #EXTINF:0 tvg-rec="0",FanDuel Sports Southwest Plus HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31039/index.m3u8
 #EXTINF:0 tvg-rec="0",Recipe.TV HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31040/index.m3u8
 #EXTINF:0 tvg-rec="0",FanDuel Sports Sun HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31041/index.m3u8
 #EXTINF:0 tvg-rec="0",Retroplex HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31042/index.m3u8
 #EXTINF:0 tvg-rec="0",FanDuel Sports West HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31043/index.m3u8
 #EXTINF:0 tvg-rec="0",FanDuel Sports West Plus HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31044/index.m3u8
 #EXTINF:0 tvg-rec="0",FanDuel Sports Wisconsin HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31046/index.m3u8
 #EXTINF:0 tvg-rec="0",FanDuel Sports Wisconsin Plus HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31047/index.m3u8
 #EXTINF:0 tvg-rec="0",beIN Sports US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31048/index.m3u8
 #EXTINF:0 tvg-rec="0",beIN Sports 2 US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31049/index.m3u8
 #EXTINF:0 tvg-rec="0",beIN Sports 3 US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31050/index.m3u8
 #EXTINF:0 tvg-rec="0",beIN Sports 4 US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31051/index.m3u8
 #EXTINF:0 tvg-rec="0",beIN Sports 5 US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31052/index.m3u8
 #EXTINF:0 tvg-rec="0",beIN Sports 6 US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31053/index.m3u8
 #EXTINF:0 tvg-rec="0",beIN Sports 7 US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31054/index.m3u8
 #EXTINF:0 tvg-rec="0",Monumental Sports Network HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31056/index.m3u8
 #EXTINF:0 tvg-rec="0",Smithsonian Channel HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31061/index.m3u8
 #EXTINF:0 tvg-rec="0",TBS HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31083/index.m3u8
 #EXTINF:0 tvg-rec="0",TCM HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31084/index.m3u8
 #EXTINF:0 tvg-rec="0",TeenNick HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31085/index.m3u8
 #EXTINF:0 tvg-rec="0",Tennis Channel HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31089/index.m3u8
 #EXTINF:0 tvg-rec="0",TLC US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31098/index.m3u8
 #EXTINF:0 tvg-rec="0",TUDN HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31103/index.m3u8
 #EXTINF:0 tvg-rec="0",FanDuel TV HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31110/index.m3u8
 
 
 #EXTINF:0 tvg-rec="0",Universal Kids HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31120/index.m3u8
 #EXTINF:0 tvg-rec="0",Universo HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31121/index.m3u8
 #EXTINF:0 tvg-rec="0",Up TV HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31123/index.m3u8
 #EXTINF:0 tvg-rec="0",USA US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31124/index.m3u8
 #EXTINF:0 tvg-rec="0",Vice HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31126/index.m3u8
 #EXTINF:0 tvg-rec="0",Willow HD US
-#EXTGRP:Play Tv  | USA
+#EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31131/index.m3u8
 
 #EXTINF:0 tvg-rec="3",Sky Sports Mix HD 50 UK
@@ -2547,4 +2684,3 @@ http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19108/index.m3u8
 #EXTINF:0 tvg-rec="0",Super Tennis HD IT
 #EXTGRP:Play Tv | Italy
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19111/index.m3u8
-
