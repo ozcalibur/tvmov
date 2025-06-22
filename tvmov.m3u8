@@ -13,7 +13,7 @@ https://tv-trt2.medya.trt.com.tr/master.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 
 
-#EXTINF:-1 group-title=“Turkiye EU",ATV Avrupa
+#EXTINF:-1 group-title=“TurkiyeEU",ATV Avrupa
 http://162.212.179.33/dvrfl05/gin-atvavrupa/playlist.m3u8
 
 
@@ -21,10 +21,10 @@ http://162.212.179.33/dvrfl05/gin-atvavrupa/playlist.m3u8
 https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 
 
-#EXTINF:-1 group-title=“Turkiye EU",Euro D
+#EXTINF:-1 group-title=“TurkiyeEU",Euro D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 
-#EXTINF:-1 group-title=“Turkiye EU",Kanal D Drama
+#EXTINF:-1 group-title=“TurkiyeEU",Kanal D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 
 #EXTINF:-1 group-title="Turkiye", Star
@@ -32,7 +32,7 @@ https://dogus-live.daioncdn.net/startv/startv.m3u8
 
 
 
-#EXTINF:-1 group-title=“Turkiye EU", Euro Star 
+#EXTINF:-1 group-title=“TurkiyeEU", Euro Star 
 https://canlitvTurkiye.xyz/live/eurostar/index.m3u8
 
 
@@ -43,7 +43,7 @@ https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 
 
 
-#EXTINF:-1 group-title=“Turkiye EU", Show Türk
+#EXTINF:-1 group-title=“TurkiyeEU", Show Türk
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shturk.m3u8
 
 
@@ -66,11 +66,11 @@ https://dogus-live.daioncdn.net/tlc/tlc.m3u8
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 
 
-#EXTINF:-1 group-title="Turkiye", TV 8,5
+#EXTINF:-1 group-title="Turkiye", TV 8.5
 https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8
 
 
-#EXTINF:-1 group-title=“Turkiye EU", TV 8 İnt
+#EXTINF:-1 group-title=“TurkiyeEU", TV 8 İnt
 http://185.234.111.229:8000/play/a01x
 
 
@@ -91,7 +91,7 @@ https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 
 
 
-#EXTINF:-1 group-title=“Turkiye EU",  Kanal 7 Avrupa
+#EXTINF:-1 group-title=“TurkiyeEU", Kanal 7 Avrupa
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8
 
 
