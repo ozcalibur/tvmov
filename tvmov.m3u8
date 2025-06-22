@@ -4,13 +4,13 @@
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 
 #EXTINF:0 group-title="Turkey",Kanal D 
-http://soledge13.dogannet.tv/S2/HLS_LIVE/kanaldnp/track_4_1000/playlist.m3u8 
+https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 
 #EXTINF:0 group-title="Turkey",Star 
-http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
+https://dogus-live.daioncdn.net/startv/startv.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Turkey" tvg-logo="http://im.cinergroup.com.tr/2016/07/21/ver1507033009/1269866_320x180.jpg",SHOW TV 
-http://umutiptv.cf/ciner.php?kanal=show&type=m3u8 
+https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Turkey" tvg-logo="https://www.fox.com.tr/img/FOXLogo.jpg",FOX 
 http://umutiptv.cf/fox.php?kanal=foxtr&type=m3u8 
