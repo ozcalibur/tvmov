@@ -1811,8 +1811,7 @@ http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/901/index.m3u8
 #EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/902/index.m3u8
 
-#EXTINF:0 tvg-rec="3",CBS NY
-#EXTGRP:USA
+#EXTINF:-1 tvg-name="CBSNY.US" tvg-language="English" tvg-country="US" tvg-id="CBSNY.us" group-title="USA",CBS NY
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/903/index.m3u8
 
 #EXTINF:-1 tvg-name="HallmarkMystery.US" tvg-language="English" tvg-country="US" tvg-id="HallmarkMystery.us" group-title="USA",Hallmark Mystery
@@ -1821,24 +1820,24 @@ http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/1075/index.m3u8
 #EXTINF:0 tvg-rec="3",Telemundo HD US
 #EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/1080/index.m3u8
-#EXTINF:0 tvg-rec="3",NBC New York HD US
 
+#EXTINF:0 tvg-rec="3",NBC New York HD US
 #EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/1081/index.m3u8
-#EXTINF:0 tvg-rec="3",Disney XD HD US
 
+#EXTINF:0 tvg-rec="3",Disney XD HD US
 #EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/1082/index.m3u8
-#EXTINF:0 tvg-rec="3",AMC HD US
 
+#EXTINF:0 tvg-rec="3",AMC HD US
 #EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/1083/index.m3u8
-#EXTINF:0 tvg-rec="3",HGTV FHD
 
+#EXTINF:0 tvg-rec="3",HGTV FHD
 #EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/1084/index.m3u8
-#EXTINF:0 tvg-rec="3",truTV HD US
 
+#EXTINF:0 tvg-rec="3",truTV HD US
 #EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/1085/index.m3u8
 
