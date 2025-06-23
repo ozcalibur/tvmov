@@ -1437,7 +1437,7 @@ http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31321/index.m3u8
 #EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31322/index.m3u8
 
-#EXTINF:0 tvg-rec="0",HGTV HD DE
+#EXTINF:-1 tvg-name="HGTV.de" tvg-language="German" tvg-country="DE" tvg-id="HGTV.de" group-title="Germany",HGTV
 #EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31323/index.m3u8
 
@@ -1841,8 +1841,7 @@ http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/1084/index.m3u8
 #EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/1085/index.m3u8
 
-#EXTINF:0 tvg-rec="3",MAVTV HD
-#EXTGRP:USA
+#EXTINF:-1 tvg-name="MAVTV.US" tvg-language="English" tvg-country="US" tvg-id="MAVTV.us" group-title="USA",MAVTV
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/1074/index.m3u8
 
 #EXTINF:0 tvg-rec="3",ABC HD US
