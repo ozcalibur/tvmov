@@ -1,4 +1,4 @@
-ne#EXTM3U
+#EXTM3U
 
 
 #EXTINF:-1 group-title="Turkiye",TRT 1
@@ -2952,9 +2952,6 @@ http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19108/index.m3u8
 #EXTGRP:Italy
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19111/index.m3u8
 
-#EXTGRP:Для взрослых
-http://live.redtraffic.xyz/pov.m3u8?fluxuslust.m3u8
-#EXTINF:0 group-title="XXX",RedTraffic Russian HD 720
-#EXTGRP:Для взрослых
-http://live.redtraffic.xyz/russian.m3u8?fluxuslust.m3u8
-#EXTINF:0 group-title="XXX",RedTraffic Teen HD 720
+
+
+
