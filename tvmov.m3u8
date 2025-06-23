@@ -22,7 +22,6 @@ https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 
 #EXTINF:-1 tvg-name="KanalDDrama.tr" tvg-language="Turkish" tvg-country="TR" tvg-id="kanalddrama.tr" group-title="TurkiyeEU",Kanal D Drama
-#EXTINF:-1 group-title=“TurkiyeEU",Kanal D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 
 #EXTINF:-1 group-title="Turkiye", Star
@@ -524,7 +523,7 @@ http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6882/index.m3u8
 
 
 
-#EXTINF:-1 group-title=""Sinema", beIN Movies Action
+#EXTINF:-1 group-title=""Sinema",FilmBox Family
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6877/index.m3u8
 
 
@@ -1180,7 +1179,7 @@ http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19009/index.m3u8
 #EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19013/index.m3u8
 
-#EXTINF:0 tvg-rec="0",Sky Cinema Premieren HD
+#EXTINF:0 tvg-rec="0",Sky Cinema Premieren
 #EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19014/index.m3u8
 
@@ -1291,10 +1290,6 @@ http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/20043/index.m3u8
 #EXTINF:0 tvg-rec="0",Warner TV Film HD DE
 #EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/20045/index.m3u8
-
-#EXTINF:0 tvg-rec="0",#dabeiTV HD DE
-#EXTGRP:Germany
-http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31279/index.m3u8
 
 #EXTINF:0 tvg-rec="0",1-2-3.tv HD DE
 #EXTGRP:Germany
@@ -1818,11 +1813,11 @@ http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/901/index.m3u8
 #EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/902/index.m3u8
 
-#EXTINF:0 tvg-rec="3",CBS New York
+#EXTINF:0 tvg-rec="3",CBS NY
 #EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/903/index.m3u8
 
-#EXTINF:0 tvg-rec="3",Hallmark Movies & Mysteries HD
+#EXTINF:0 tvg-rec="3",Hallmark Mystery
 #EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/1075/index.m3u8
 
