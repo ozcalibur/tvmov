@@ -521,11 +521,6 @@ http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6881/index.m3u8
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6882/index.m3u8
 
 
-
-#EXTINF:-1 tvg-name="FilmBoxFamily.de" tvg-language="German" tvg-country="DE" tvg-id="FilmBoxFamily.de" group-title="Germany",FilmBox Family
-http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6877/index.m3u8
-
-
 #EXTINF:-1 group-title="Sinema", beIN Movies Action 2
 https://tinyurl.com/47nj4vvs
 
@@ -886,6 +881,13 @@ https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
 https://fl3.moveonjoy.com/NICK_MUSIC/index.m3u8
 
 
+
+#EXTINF:-1 tvg-name="FilmBoxFamily.de" tvg-language="German" tvg-country="DE" tvg-id="FilmBoxFamily.de" group-title="Germany",FilmBox Family
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6877/index.m3u8
+
+#EXTINF:-1 tvg-name="SkyCinemaPremieren.de" tvg-language="German" tvg-country="DE" tvg-id="SkyCinemaPremieren.de" group-title="Germany",Sky Cinema Premieren
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19014/index.m3u8
+
 #EXTINF:0 tvg-rec="3",Sky Sport Mix HD DE
 #EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/5039/index.m3u8
@@ -1178,8 +1180,6 @@ http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19009/index.m3u8
 #EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19013/index.m3u8
 
-#EXTINF:-1 tvg-name="SkyCinemaPremieren.de" tvg-language="German" tvg-country="DE" tvg-id="SkyCinemaPremieren.de" group-title="Germany",Sky Cinema Premieren
-http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19014/index.m3u8
 
 #EXTINF:0 tvg-rec="0",Sky Cinema Classics FHD DE
 #EXTGRP:Germany
