@@ -2,6 +2,892 @@
 
 
 
+#EXTINF:-1 group-title="Turkiye",TRT 1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+
+
+#EXTINF:-1 group-title="Turkiye",TRT 2
+https://tv-trt2.medya.trt.com.tr/master.m3u8
+
+
+#EXTINF:-1 tvg-name="atv.tr" tvg-language="Turkish" tvg-country="TR" tvg-id="atv.tr" tvg-logo="https://i.imgur.com/HyVUwFC.png" group-title="Turkiye",Atv
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
+
+#EXTINF:-1 tvg-name="AtvAvrupa.tr" tvg-language="Turkish" tvg-country="TR" tvg-id="atvavrupa.tr" group-title="TurkiyeEU",Atv Avrupa
+http://162.212.179.33/dvrfl05/gin-atvavrupa/playlist.m3u8
+
+#EXTINF:-1 tvg-name="kanald.tr" tvg-language="Turkish" tvg-country="TR" tvg-id="kanald.tr" group-title="Turkiye",Kanal D
+https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
+
+#EXTINF:-1 tvg-name="eurod.tr" tvg-language="Turkish" tvg-country="TR" tvg-id="eurod.tr" group-title="TurkiyeEU",Euro D
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
+
+#EXTINF:-1 tvg-name="KanalDDrama.tr" tvg-language="Turkish" tvg-country="TR" tvg-id="kanalddrama.tr" group-title="TurkiyeEU",Kanal D Drama
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
+
+#EXTINF:-1 group-title="Turkiye", Star
+https://dogus-live.daioncdn.net/startv/startv.m3u8
+
+
+#EXTINF:-1 tvg-name="EuroStar.tr" tvg-language="Turkish" tvg-country="TR" tvg-id="eurostar.tr" group-title="TurkiyeEU",Euro Star
+https://canlitvTurkiye.xyz/live/eurostar/index.m3u8
+
+
+#EXTINF:-1 group-title="Turkiye", SHOW
+https://ciner-live.daioncdn.net/showtv/showtv.m3u8
+
+#EXTINF:-1 tvg-name="ShowTurk.tr" tvg-language="Turkish" tvg-country="TR" tvg-id="ShowTurk.tr" group-title="TurkiyeEU",Show Turk
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shturk.m3u8
+
+
+#EXTINF:-1 group-title="Turkiye", Show Max
+https://ciner-live.daioncdn.net/showmax/showmax.m3u8
+
+
+
+#EXTINF:-1 group-title="Turkiye", NOW 
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
+
+#EXTINF:-1 group-title="Turkiye", Dmax 
+https://dogus-live.daioncdn.net/dmax/dmax.m3u8
+
+#EXTINF:-1 group-title="Turkiye", TLC 
+https://dogus-live.daioncdn.net/tlc/tlc.m3u8
+
+
+#EXTINF:-1 group-title="Turkiye", TV 8
+https://tv8-live.daioncdn.net/tv8/tv8.m3u8
+
+
+#EXTINF:-1 group-title="Turkiye", TV 8.5
+https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8
+
+#EXTINF:-1 tvg-name="Tv8int.tr" tvg-language="Turkish" tvg-country="TR" tvg-id="Tv8int.tr" group-title="TurkiyeEU",TV 8 Int
+http://185.234.111.229:8000/play/a01x
+
+
+#EXTINF:-1 group-title="Turkiye", Beyaz TV 
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
+
+
+#EXTINF:-1 group-title="Turkiye",  360 Tv
+https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
+
+
+#EXTINF:-1 group-title="Turkiye", Teve 2
+https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
+
+
+#EXTINF:-1 group-title="Turkiye",  Kanal 7
+https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
+
+#EXTINF:-1 tvg-name="kanal7avrupa.tr" tvg-language="Turkish" tvg-country="TR" tvg-id="kanal7avrupa.tr" group-title="TurkiyeEU",Kanal 7 Avrupa
+https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8
+
+
+
+#EXTINF:-1 group-title="Turkiye",A2
+http://89.187.191.41/A2-HD-TR/video.m3u8
+
+
+
+
+#EXTINF:-1 group-title="Turkiye", TYT TÜRK
+https://cdn-tytturk.yayin.com.tr/tytturk/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 group-title="Turkiye",  CNBC-E
+https://uzunmuhalefet.serv00.net/canlitv2.php?id=13406&.m3u8
+
+
+#EXTINF:-1 tvg-name="TrtTurk.tr" tvg-language="Turkish" tvg-country="TR" tvg-id="trtTurk.tr" group-title="TurkiyeEU",TRT Turk
+https://tv-trtturk.medya.trt.com.tr/master.m3u8
+
+
+#EXTINF:-1 group-title="Spor", TRT Spor 
+https://tv-trtspor1.medya.trt.com.tr/master.m3u8
+
+
+
+#EXTINF:-1 group-title="Spor", TRT Spor Yıldız
+https://tv-trtspor2.medya.trt.com.tr/master.m3u8
+
+
+#EXTINF:-1 group-title="Spor", A Spor
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
+
+
+
+
+#EXTINF:-1 group-title="Spor", Sports TV 
+https://live.sportstv.com.tr/hls/low/sportstv.m3u8
+
+
+#EXTINF:-1 group-title="Spor", TR Spor TV
+http://116.202.117.244/gzcspor/gzcspor/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="Spor", HT Spor
+https://ciner-live.daioncdn.net/ht-spor/ht-spor_1080p.m3u8
+
+
+#EXTINF:-1 group-title="Spor", TJK 
+http://tjktv.ercdn.net/tjktv.m3u8
+
+#EXTINF:-1 group-title="Spor", TJK Yurt Dışı 
+https://tjktv-live.tjk.org/tjktv2/tjktv2_1080p.m3u8
+
+
+#EXTINF:-1 group-title="Spor", Tay TV 
+https://duhnet.hipodrom.com/S2/HLS_LIVE/mislitaynp/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="Spor", Smart Spor 
+https://demoyayiyin.sunxtvcloud.workers.dev/smartspor1/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title="Spor", Smart Spor 2
+https://demoyayiyin.sunxtvcloud.workers.dev/smartspor2/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title="Spor", Eurosport 1
+https://demoyayiyin.sunxtvcloud.workers.dev/eurosport1/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 group-title="Spor", Eurosport 2
+https://demoyayiyin.sunxtvcloud.workers.dev/eurosport2/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 group-title="Spor", Monster Jam
+https://4b9627c7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X01vbnN0ZXJKYW1fSExT/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Spor", TNA Wrestling
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883039
+
+
+#EXTINF:-1 group-title="Spor", PFL MMA
+https://a883593c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1BGTE1NQV9ITFM/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Spor", Bilardo TV 
+https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="Spor", Solh Sport
+https://solhtvhls.wns.live/hls/stream.m3u8
+
+
+#EXTINF:-1 group-title="Spor", NBA TV 
+http://212.102.60.231/NBA_TV/index.m3u8
+
+
+
+
+#EXTINF:-1 group-title="Spor Özel", beIN Sports 1 FHD
+https://demoyayiyin.sunxtvcloud.workers.dev/Bein-Sport-1-FHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Spor Özel", beIN Sports 1 HD
+https://demoyayiyin.sunxtvcloud.workers.dev/Bein-Sport-1-HD/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title="Spor Özel", beIN Sports 2 FHD
+https://demoyayiyin.sunxtvcloud.workers.dev/Bein-Sport-2-FHD/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 group-title="Spor Özel", beIN Sports 2 HD
+https://demoyayiyin.sunxtvcloud.workers.dev/Bein-Sport-2-HD/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title="Spor Özel", beIN Sports 3 HD
+https://demoyayiyin.sunxtvcloud.workers.dev/Bein-Sport-3-HD/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 group-title="Spor Özel", beIN Sports 4 HD
+https://demoyayiyin.sunxtvcloud.workers.dev/Bein-Sport-4-HD/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title="Spor Özel", beIN Sports 5 HD
+https://demoyayiyin.sunxtvcloud.workers.dev/Bein-Sport-5-HD/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title="Spor Özel", beIN Sports Max 2 HD
+https://demoyayiyin.sunxtvcloud.workers.dev/Bein-Sport-Max-1-HD/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title="Spor Özel", beIN Sports Max 1 HD
+https://demoyayiyin.sunxtvcloud.workers.dev/Bein-Sport-Max-2-HD/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 group-title="Spor Özel", S Sport 1
+https://demoyayiyin.sunxtvcloud.workers.dev/ssport1/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title="Spor Özel", S Sport 2
+https://demoyayiyin.sunxtvcloud.workers.dev/ssport2/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title="Spor Özel", S Sport +
+https://demoyayiyin.sunxtvcloud.workers.dev/ssportplus/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title="Spor Özel", S Sport + 2
+https://demoyayiyin.sunxtvcloud.workers.dev/ssportplus2/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title="Spor Özel", S Sport + 3
+https://demoyayiyin.sunxtvcloud.workers.dev/ssportplus3/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title="Spor Özel", S Sport + 4
+https://demoyayiyin.sunxtvcloud.workers.dev/ssportplus4/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 group-title="Spor Özel", S Sport + 5
+https://demoyayiyin.sunxtvcloud.workers.dev/ssportplus5/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 group-title="Spor Özel", S Sport + 6
+https://demoyayiyin.sunxtvcloud.workers.dev/ssportplus6/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 group-title="Spor Özel", Exxen 1
+https://demoyayiyin.sunxtvcloud.workers.dev/ex1/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title="Spor Özel", Exxen 2
+https://demoyayiyin.sunxtvcloud.workers.dev/ex2/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title="Spor Özel", Exxen 3
+https://demoyayiyin.sunxtvcloud.workers.dev/ex3/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title="Spor Özel", Exxen 4
+https://demoyayiyin.sunxtvcloud.workers.dev/ex4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Spor Özel", Exxen 5
+https://demoyayiyin.sunxtvcloud.workers.dev/ex5/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title="Spor Özel", Exxen 6
+https://demoyayiyin.sunxtvcloud.workers.dev/ex6/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 group-title="Spor Özel", Spor Smart 
+https://demoyayiyin.sunxtvcloud.workers.dev/smartspor1/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title="Spor Özel", Spor Smart  2
+https://demoyayiyin.sunxtvcloud.workers.dev/smartspor2/tracks-v1a1/mono.m3u8
+
+
+
+
+
+#EXTINF:1 group-title="Spor Özel", beIN Sports 1
+https://21heytv.com/701/mono.m3u8|Referer=https://yakatv4.live/
+
+
+
+#EXTINF:1 group-title="Spor Özel", beIN Sports 2
+https://21heytv.com/702/tracks-v1a1/mono.css|Referer=https://yakatv4.live/
+
+
+#EXTINF:1 group-title="Spor Özel", beIN Sports 3
+https://21heytv.com/703/tracks-v1a1/mono.css|Referer=https://yakatv4.live/
+
+
+
+#EXTINF:1 group-title="Spor Özel", beIN Sports 4
+https://21heytv.com/704/tracks-v1a1/mono.css|Referer=https://yakatv4.live/
+
+
+#EXTINF:1 group-title="Spor Özel", beIN Sports 5  
+https://21heytv.com/7050/tracks-v1a1/mono.css|Referer=https://yakatv4.live/
+
+#EXTINF:1 group-title="Spor Özel", beIN Sports Max 1
+https://21heytv.com/716/tracks-v1a1/mono.css|Referer=https://yakatv4.live/
+
+
+#EXTINF:1 group-title="Spor Özel", beIN Sports Max 2
+https://21heytv.com/717/tracks-v1a1/mono.css|Referer=https://yakatv4.live/
+
+
+
+#EXTINF:1 group-title="Spor Özel", S Sport 
+https://21heytv.com/705/tracks-v1a1/mono.css|Referer=https://yakatv4.live/
+
+
+#EXTINF:1 group-title="Spor Özel", Tivibu Spor 1
+https://21heytv.com/708/tracks-v1a1/mono.css|Referer=https://yakatv4.live/
+
+#EXTINF:1 group-title="Spor Özel", Tivibu Spor 2 
+https://21heytv.com/711/tracks-v1a1/mono.css|Referer=https://yakatv4.live/
+
+
+#EXTINF:1 group-title="Spor Özel", Tivibu Spor 3
+https://21heytv.com/712/tracks-v1a1/mono.css|Referer=https://yakatv4.live/
+
+
+
+#EXTINF:-1 tvg-name="Tabii Spor" tvg-language="Turkish" tvg-country="TR" tvg-id="TabiiSpor.tr" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w500/43023.jpeg" group-title="TabiiSpor",Tabii Spor
+https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-name="Tabii Spor 1" tvg-language="Turkish" tvg-country="TR" tvg-id="TabiiSpor1.tr" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w500/43005.jpeg" group-title="TabiiSpor",Tabii Spor 1
+https://iaqzu4szhtzeqd0edpsayinle.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-name="Tabii Spor 2" tvg-language="Turkish" tvg-country="TR" tvg-id="TabiiSpor2.tr" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w500/43008.jpeg" group-title="TabiiSpor",Tabii Spor 2
+https://klublsslubcgyiz7zqt5bz8il.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-name="Tabii Spor 3" tvg-language="Turkish" tvg-country="TR" tvg-id="TabiiSpor3.tr" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w500/43011.jpeg" group-title="TabiiSpor",Tabii Spor 3
+https://ujnf69op16x2fiiywxcnx41q8.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-name="Tabii Spor 4" tvg-language="Turkish" tvg-country="TR" tvg-id="TabiiSpor4.tr" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w500/43014.jpeg" group-title="TabiiSpor",Tabii Spor 4
+https://bfxy3jgeydpbphtk8qfqwm3hr.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-name="Tabii Spor 5" tvg-language="Turkish" tvg-country="TR" tvg-id="TabiiSpor5.tr" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w500/43017.jpeg" group-title="TabiiSpor",Tabii Spor 5
+https://z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-name="Tabii Spor 6" tvg-language="Turkish" tvg-country="TR" tvg-id="TabiiSpor6.tr" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w500/43020.jpeg" group-title="TabiiSpor",Tabii Spor 6
+https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-name="Tabii Spor 7" tvg-language="Turkish" tvg-country="TR" tvg-id="TabiiSpor7.tr" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w500/43023.jpeg" group-title="TabiiSpor",Tabii Spor 7
+https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master.m3u8
+
+
+
+#EXTINF:-1 group-title="Belgesel", TRT Belgesel 
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+
+
+#EXTINF:-1 group-title="Belgesel", TGRT Belgesel 
+https://tgrt-live.ercdn.net/tgrtbelgesel/tgrtbelgesel.m3u8
+
+#EXTINF:-1 group-title="Belgesel", Çiftçi Tv
+https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
+
+#EXTINF:-1 group-title="Belgesel", Yaban Tv
+https://uzunmuhalefet.serv00.net/canlitv2.php?id=12044&.m3u8
+
+
+#EXTINF:-1 group-title="Belgesel", National Geographic 
+https://saran-live.ercdn.net/natgeohd/index.m3u8
+
+
+#EXTINF:-1 group-title="Belgesel", National Geographic Wild
+https://saran-live.ercdn.net/natgeowild/index.m3u8
+
+
+
+#EXTINF:-1 group-title="Belgesel", beIN Gurme
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6804/index.m3u8
+
+#EXTINF:-1 group-title="Belgesel", BBC Earth 
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6854/index.m3u8
+
+
+#EXTINF:-1 group-title="Belgesel", History
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6856/index.m3u8
+
+#EXTINF:-1 group-title="Belgesel", Da Vinci
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6857/index.m3u8
+
+
+#EXTINF:-1 group-title="Belgesel", Discovery Channel
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6861/index.m3u8
+
+
+
+#EXTINF:-1 group-title="Belgesel", Discovery ID
+https://tinyurl.com/4p759wmb
+
+
+
+#EXTINF:-1 group-title="Belgesel", Love Nature
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6864/index.m3u8
+
+
+
+#EXTINF:-1 group-title="Belgesel", beIN IZ
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19078/index.m3u8
+
+
+
+#EXTINF:-1 group-title="Belgesel", Viasat Explorer 
+https://tinyurl.com/d8anvza4
+
+
+#EXTINF:-1 group-title="Belgesel", Viasat History
+https://tinyurl.com/2zeyzzt7 
+
+
+
+#EXTINF:-1 group-title="Belgesel", Habitat 
+https://tinyurl.com/uw5j4wmw 
+
+
+#EXTINF:-1 group-title="Belgesel", Tarih TV 
+https://tinyurl.com/yvwmpsxs 
+
+
+#EXTINF:-1 group-title="Belgesel", Gurme Tv 
+https://live.euromediacenter.com/gurmetv/tracks-v1a1/mono.m3u8 
+
+
+#EXTINF:-1 group-title="Belgesel", Tarım Belgesel 
+https://canlitvTurkiye.xyz/live/tarimtv/index.m3u8 
+
+
+#EXTINF:-1 group-title="Belgesel", CGTN Documentary
+https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8 
+
+
+#EXTINF:-1 group-title="Sinema", Play Tv
+https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
+
+
+
+#EXTINF:-1 group-title="Sinema", Tabii Tv
+https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
+
+#EXTINF:-1 group-title="Sinema", TRT Nostalji 
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
+
+
+
+
+#EXTINF:-1 group-title="Sinema", Fx
+https://saran-live.ercdn.net/fx/index.m3u8
+
+
+
+#EXTINF:-1 group-title="Sinema", beIN Box Office 1
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6744/index.m3u8
+
+
+#EXTINF:-1 group-title="Sinema", beIN Box Office 2
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6745/index.m3u8
+
+
+#EXTINF:-1 group-title="Sinema", beIN Box Office 3
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6743/index.m3u8
+
+
+
+#EXTINF:-1 group-title="Sinema", beIN Series 1
+https://tinyurl.com/ycy3wnu3
+
+
+
+#EXTINF:-1 group-title="Sinema", beIN Series 2
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6814/index.m3u8
+
+
+
+#EXTINF:-1 group-title="Sinema", beIN Series 3
+https://tinyurl.com/3utjxv67
+
+
+
+
+#EXTINF:-1 group-title="Sinema", beIN Series 4
+https://tinyurl.com/2vny9243
+
+
+
+
+
+#EXTINF:-1 group-title="Sinema", beIN Series Comedy 
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6881/index.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="Sinema", beIN Series Drama 
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6882/index.m3u8
+
+
+
+
+#EXTINF:-1 group-title="Sinema",FilmBox Family
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6877/index.m3u8
+
+
+#EXTINF:-1 group-title="Sinema", beIN Movies Action 2
+https://tinyurl.com/47nj4vvs
+
+
+#EXTINF:-1 group-title="Sinema", beIN Movies Family
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6878/index.m3u8
+
+
+
+#EXTINF:-1 group-title="Sinema", beIN Movies Premiere
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6880/index.m3u8
+
+
+
+#EXTINF:-1 group-title="Sinema", beIN Movies Premiere 2
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6879/index.m3u8
+
+
+
+
+#EXTINF:-1 group-title="Sinema", beIN Movies Stars
+https://tinyurl.com/5ect5tkj
+
+
+
+#EXTINF:-1 group-title="Sinema", beIN Movies Türk 
+https://tinyurl.com/mr7wfnzm
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Sinema", DiziSmart Premium 
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6802/index.m3u8
+
+
+#EXTINF:-1 group-title="Sinema", DiziSmart Max 
+https://tinyurl.com/5n7txspm
+
+
+
+#EXTINF:-1 group-title="Sinema", Sinema TV 
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6806/index.m3u8
+
+#EXTINF:-1 group-title="Sinema", Sinema Aksiyon 2
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6812/index.m3u8
+
+
+#EXTINF:-1 group-title="Sinema", Movie Smart Turk 
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6807/index.m3u8
+
+
+
+#EXTINF:-1 group-title="Sinema", Movie Smart Classic 
+https://tinyurl.com/44eetvrj
+
+
+
+#EXTINF:-1 group-title="Sinema", Fix Cinema Yeşilçam 
+https://Playtv-dproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/4110861662/index.m3u8
+
+
+#EXTINF:1 group-title="Haber", Sözcü 
+https://izle.canlitvapp.com/sozcu/index.m3u8
+
+
+#EXTINF:1 group-title="Haber", Halk TV 
+https://halktv-live.daioncdn.net/halktv/halktv.m3u8
+
+
+#EXTINF:1 group-title="Haber", Tele 1
+https://tele1-live.ercdn.net/tele1/tele1_1080p.m3u8
+
+
+#EXTINF:1 group-title="Haber", TRT Haber 
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+
+
+#EXTINF:1 group-title="Haber", Haber Türk 
+https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
+
+
+#EXTINF:1 group-title="Haber", TV100
+https://tv100.daioncdn.net/tv100/tv100_1080p.m3u8?app=web
+
+
+#EXTINF:1 group-title="Haber", Ülke TV 
+https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
+
+
+#EXTINF:1 group-title="Haber", TV100
+https://tv100.daioncdn.net/tv100/tv100_1080p.m3u8?app=web
+
+
+#EXTINF:1 group-title="Haber", NTV 
+https://dogus-live.daioncdn.net/ntv/ntv_1080p.m3u8
+
+
+#EXTINF:1 group-title="Haber", TV 24
+https://turkmedya-live.ercdn.net/tv24/tv24_1080p.m3u8
+
+
+#EXTINF:1 group-title="Haber", CNN Türk 
+https://b.fulltvizle.com/cnn/playlist.m3u8
+
+
+#EXTINF:1 group-title="Haber", Haber Global
+https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
+
+
+#EXTINF:1 group-title="Haber", Bloomberg HT
+https://ciner-live.daioncdn.net/bloomberght/bloomberght.m3u8
+
+
+#EXTINF:1 group-title="Haber", TGRT Haber 
+https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber_1080p.m3u8
+
+
+#EXTINF:1 group-title="Haber", Meltem TV 
+https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
+
+
+#EXTINF:1 group-title="Haber", Flash Haber 
+https://flashhaber-live.ercdn.net/flashhaber/flashhaber_1080p.m3u8
+
+
+#EXTINF:1 group-title="Haber", TV Net
+https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
+
+
+#EXTINF:1 group-title="Haber", Türk Haber 
+https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
+
+
+#EXTINF:1 group-title="Haber", Lider Haber 
+http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8
+
+
+#EXTINF:1 group-title="Haber", Gzt Haber
+https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
+
+
+#EXTINF:1 group-title="Haber", Bengü Türk
+https://tv.ensonhaber.com/benguturk/benguturk.m3u8
+
+
+#EXTINF:1 group-title="Haber", Finans Türk
+https://yayin30.haber100.com/live/finansturk/playlist.m3u8
+
+
+#EXTINF:1 group-title="Haber", Üreten Türkiye
+https://live.euromediacenter.com/uretenturkiye/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:1 group-title="Haber", TBMM
+https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
+
+
+#EXTINF:1 group-title="Haber", Mavi Karadeniz 
+https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8
+
+
+#EXTINF:1 group-title="Haber", Olay Türk
+https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/playlist.m3u8
+
+
+#EXTINF:1 group-title="Haber", DHA 
+https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/chunklist_w489522622.m3u8
+
+
+#EXTINF:1 group-title="Haber", Ekol TV 
+https://ekoltv-live.ercdn.net/ekoltv/ekoltv_1080p.m3u8
+
+
+
+#EXTINF:1 group-title="Haber", A Haber 
+https://b.fulltvizle.com/ahaber/playlist.m3u8
+
+
+
+#EXTINF:1 group-title="Haber", Akit
+https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
+
+
+#EXTINF:1 group-title="Haber", KRT
+https://tinyurl.com/bdfd84rh
+
+
+#EXTINF:1 group-title="Haber", A Para
+https://tinyurl.com/yc7a34p5
+
+
+#EXTINF:-1 group-title="Çocuk", TRT Çocuk 
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+
+
+
+#EXTINF:-1 group-title="Çocuk", TRT Diyanet Çocuk 
+https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
+
+
+#EXTINF:-1 group-title="Çocuk", Baby TV 
+https://saran-live.ercdn.net/babytv/index.m3u8
+
+
+#EXTINF:-1 group-title="Çocuk", Disney Junior
+https://saran-live.ercdn.net/disneyjunior/index.m3u8
+
+
+#EXTINF:-1 group-title="Çocuk", Minika Go 
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
+
+
+#EXTINF:-1 group-title="Çocuk", Minika Çocuk 
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
+
+
+#EXTINF:-1 group-title="Çocuk", Duck TV 
+https://jmp2.uk/sam-ESBC4700001GR.m3u8
+
+
+
+#EXTINF:-1 group-title="Çocuk", Cartoon Network
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6846/index.m3u8
+
+
+
+
+#EXTINF:-1 group-title="Çocuk", Nicktoons
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6848/index.m3u8
+
+
+#EXTINF:-1 group-title="Çocuk", Nick Jr.
+https://tinyurl.com/4z2p3v78
+
+
+
+#EXTINF:-1 group-title="Çocuk ", Cartoonito
+http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6850/index.m3u8
+
+
+
+#EXTINF:-1 group-title="Çocuk ", Moonbug
+https://tinyurl.com/5ccu9cut
+
+
+#EXTINF:-1 group-title="Müzik",Power Türk Slow
+https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Müzik",Power Türk Taptaze
+https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Müzik",Power Tv
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Müzik",Kral Pop
+https://dogus-live.daioncdn.net/kralpoptv/kralpoptv.m3u8
+
+#EXTINF:-1 group-title="Müzik",PowerTürk
+https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/chunks.m3u8
+
+
+#EXTINF:-1 group-title="Müzik",TopPop
+https://yayin.santraltr.com/hls/toppop.m3u8
+
+#EXTINF:-1 group-title="Müzik",Number1 Dance
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
+
+#EXTINF:-1 group-title="Müzik",Power Türk Dance
+https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Müzik",Power Türk Love
+https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Müzik",Power Türk Akustik
+https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Müzik",Vevo Latino
+https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Müzik",70-80 TV
+https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
+
+#EXTINF:-1 group-title="Müzik",NEW K-POP
+https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Müzik",Afrobeats
+https://stream.ecable.tv/afrobeats/index.m3u8
+
+#EXTINF:-1 group-title="Müzik",BTA TV
+https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
+
+#EXTINF:-1 group-title="Müzik",Muzzik POP STAR
+https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
+
+#EXTINF:-1 group-title="Müzik",Avang TV
+https://hls.avang.live/hls/stream.m3u8
+
+#EXTINF:-1 group-title="Müzik",Cool FM 98.9
+https://live2.tensila.com/cool-v-1.arubara/hls/master.m3u8
+
+#EXTINF:-1 group-title="Müzik",Muzzik ELECTRO
+https://muzzik-live.morescreens.com/mts-9/playlist.m3u8
+
+#EXTINF:-1 group-title="Müzik",Vevo Pop
+https://amg00056-amg00056c9-rakuten-fr-3243.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevopopfr-rakutenfr/playlist.m3u8
+
+#EXTINF:-1 group-title="Müzik",Atomic Academy TV (480p)
+https://atomic.streamnet.ro/academia.m3u8
+
+#EXTINF:-1 group-title="Müzik",Number 1 Damar
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Müzik",Baraza TV Relaxing
+https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
+
+#EXTINF:-1 group-title="Müzik",Angienet TV
+https://servilive.com:3624/stream/play.m3u8
+
+#EXTINF:-1 group-title="Müzik",Worldwide Muzzik
+https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
+
+#EXTINF:-1 group-title="Müzik",Muzzik SENSE
+https://muzzik-live.morescreens.com/mts-7/playlist.m3u8
+
+#EXTINF:-1 group-title="Müzik",Muzzik ZZ TV
+https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
+
+#EXTINF:-1 group-title="Müzik",98.1 Pearl FM
+https://live2.tensila.com/pearl-v-1.pearlfm/hls/live/mystream.m3u8
+
+#EXTINF:-1 group-title="Müzik",MTV Live
+https://fl3.moveonjoy.com/MTV_LIVE/index.m3u8
+
+#EXTINF:-1 group-title="Müzik",Muzzik FLASHBACK
+https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
+
+#EXTINF:-1 group-title="Müzik",Number 1 Ask
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
+
+#EXTINF:-1 group-title="Müzik",Activa TV
+https://streamtv.mediasector.es/hls/activatv/index.m3u8
+
+#EXTINF:-1 group-title="Müzik",California Music Channel [Not 24/7]
+https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8
+
+#EXTINF:-1 group-title="Müzik",Muzzik TIKTAK
+https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
+
+#EXTINF:-1 group-title="Müzik",Clubbing TV
+https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Müzik",Nick Music
+https://fl3.moveonjoy.com/NICK_MUSIC/index.m3u8
+
+
 #EXTINF:0 tvg-rec="3",Sky Sport Mix HD DE
 #EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/5039/index.m3u8
