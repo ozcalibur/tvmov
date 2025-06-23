@@ -1438,7 +1438,6 @@ http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31321/index.m3u8
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31322/index.m3u8
 
 #EXTINF:-1 tvg-name="HGTV.de" tvg-language="German" tvg-country="DE" tvg-id="HGTV.de" group-title="Germany",HGTV
-#EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31323/index.m3u8
 
 #EXTINF:0 tvg-rec="0",HR HD DE
