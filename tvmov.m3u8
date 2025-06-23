@@ -1,7 +1,6 @@
 #EXTM3U
 
 
-
 #EXTINF:-1 group-title="Turkiye",TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 
@@ -524,7 +523,7 @@ http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6882/index.m3u8
 
 
 
-#EXTINF:-1 group-title="Sinema",FilmBox Family
+#EXTINF:-1 group-title=""Sinema",FilmBox Family
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6877/index.m3u8
 
 
@@ -1440,7 +1439,7 @@ http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31321/index.m3u8
 #EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31322/index.m3u8
 
-#EXTINF:0 tvg-rec="0",HGTV HD
+#EXTINF:0 tvg-rec="0",HGTV HD DE
 #EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31323/index.m3u8
 
@@ -1846,7 +1845,7 @@ http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/1084/index.m3u8
 #EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/1085/index.m3u8
 
-#EXTINF:0 tvg-rec="3",MAVTV
+#EXTINF:0 tvg-rec="3",MAVTV HD
 #EXTGRP:USA
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/1074/index.m3u8
 
@@ -2927,5 +2926,4 @@ http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19107/index.m3u8
 #EXTINF:0 tvg-rec="0",Sportitalia Plus HD IT
 #EXTGRP:Italy
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/19108/index.m3u8
-
 
