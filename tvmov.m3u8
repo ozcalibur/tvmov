@@ -190,7 +190,7 @@ http://212.102.60.231/NBA_TV/index.m3u8
 
 
 #EXTINF:-1 group-title="Spor Özel", beIN Sports 1 FHD
-https://iptv-org.github.io/iptv/countries/qa.m3u
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/12303.ts
 
 #EXTINF:-1 group-title="Spor Özel", beIN Sports 1 HD
 https://demoyayiyin.sunxtvcloud.workers.dev/Bein-Sport-1-HD/tracks-v1a1/mono.m3u8
