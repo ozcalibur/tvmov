@@ -153,8 +153,7 @@ https://demoyayiyin.sunxtvcloud.workers.dev/smartspor2/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 group-title="Spor", Eurosport 1
-https://demoyayiyin.sunxtvcloud.workers.dev/eurosport1/tracks-v1a1/mono.m3u8
-
+http://hls01-09.az.myvideo.az/hls-live/livepkgr/eurosport/eurosport/eurosport.m3u8?rRb545vJBB5tYzB7vVP
 
 
 #EXTINF:-1 group-title="Spor", Eurosport 2
