@@ -29,7 +29,7 @@ https://dogus-live.daioncdn.net/startv/startv.m3u8
 
 
 #EXTINF:-1 tvg-name="EuroStar.tr" tvg-language="Turkish" tvg-country="TR" tvg-id="eurostar.tr" group-title="TurkiyeEU",Euro Star
-https://tgn.bozztv.com/trn03/gt-eurostar/index.m3u8
+https://github.com/proefem/Yutuber/raw/main/streams/eurostar.m3u8
 
 #EXTINF:-1 group-title="Turkiye", SHOW
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
