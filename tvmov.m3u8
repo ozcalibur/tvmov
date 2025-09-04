@@ -178,6 +178,11 @@ http://212.102.60.231/NBA_TV/index.m3u8
 #EXTINF:-1 group-title="Spor Özel", Bein Sport 1 
 https://deneme123.parisiptv1.workers.dev/Bein-Sport-1-FHD/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="Spor Özel", Bein Sport 2
+https://r0.4928d54d950ee70q17.lat/yayinzirve.m3u8
+
+
+
 #EXTINF:-1 tvg-name="Tabii Spor" tvg-language="Turkish" tvg-country="TR" tvg-id="TabiiSpor.tr" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w500/43023.jpeg" group-title="TabiiSpor",Tabii Spor
 https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8
 
