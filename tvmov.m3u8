@@ -63,6 +63,10 @@ https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8
 #EXTINF:-1 tvg-name="Tv8int.tr" tvg-language="Turkish" tvg-country="TR" tvg-id="Tv8int.tr" group-title="TurkiyeEU",TV 8 Int
 http://185.150.130.123:8000/play/str214
 
+#EXTINF:-1 tvg-name="Tv8int.tr" tvg-language="Turkish" tvg-country="TR" tvg-id="Tv8int.tr" group-title="TurkiyeEU",TV 8 Int
+http://62.112.9.63:88/TV8_TR/index.m3u8?token=test
+
+
 
 #EXTINF:-1 group-title="Turkiye", Beyaz TV 
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
