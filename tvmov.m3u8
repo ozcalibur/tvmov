@@ -175,16 +175,16 @@ https://solhtvhls.wns.live/hls/stream.m3u8
 http://212.102.60.231/NBA_TV/index.m3u8
 
 
-#EXTINF:-1 group-title="Spor Özel", Bein Sport 1 
+#EXTINF:-1 group-title="Spor Özel", Bein Sport
 https://live-freeshot.mark-clark.workers.dev/?ID=beINSPORTS1TR
 
-#EXTINF:-1 group-title="Spor Özel", Bein Sport 2
+#EXTINF:-1 group-title="Spor Özel", Bein Sport
 http://95.174.71.114:80/TR-BEINSPORT1/index.m3u8
 
-#EXTINF:-1 group-title="Spor Özel", Bein Sport 2
+#EXTINF:-1 group-title="Spor Özel", Bein Sport
 http://origi-jw-5.ravenclaw-house.com:80/TR-BEINSPORT1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Spor Özel", Bein Sport 2
+#EXTINF:-1 group-title="Spor Özel", Bein Sport
 http://apx-me.com:8880/live/live:persian_share/Hs6guU9ziF/49218.ts
 
 
