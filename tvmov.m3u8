@@ -127,7 +127,7 @@ http://116.202.117.244/gzcspor/gzcspor/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="Spor", tvg-id="HTspor.tr", HT Spor
+#EXTINF:-1 group-title="Spor" tvg-id="HTspor.tr", HT Spor
 https://ciner-live.daioncdn.net/ht-spor/ht-spor_1080p.m3u8
 
 
@@ -283,16 +283,6 @@ https://tinyurl.com/2zeyzzt7
 https://tinyurl.com/uw5j4wmw 
 
 
-#EXTINF:-1 group-title="Belgesel", Tarih TV 
-https://tinyurl.com/yvwmpsxs 
-
-
-#EXTINF:-1 group-title="Belgesel", Gurme Tv 
-https://live.euromediacenter.com/gurmetv/tracks-v1a1/mono.m3u8 
-
-
-#EXTINF:-1 group-title="Belgesel", Tarım Belgesel 
-https://canlitvTurkiye.xyz/live/tarimtv/index.m3u8 
 
 
 #EXTINF:-1 group-title="Belgesel", CGTN Documentary
@@ -1243,8 +1233,7 @@ http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31321/index.m3u8
 #EXTGRP:Germany
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31322/index.m3u8
 
-#EXTINF:0 tvg-rec="0",HGTV DE
-#EXTGRP:Germany
+#EXTINF:0 tvg-rec="0"  group-title="Belgesel",HGTV DE
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/31323/index.m3u8
 
 #EXTINF:0 tvg-rec="0",HR HD DE
