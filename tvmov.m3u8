@@ -359,9 +359,6 @@ http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6881/index.m3u8
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6882/index.m3u8
 
 
-#EXTINF:-1 group-title="Sinema", beIN Movies Action 2
-https://tinyurl.com/47nj4vvs
-
 
 #EXTINF:-1 group-title="Sinema", beIN Movies Family
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6878/index.m3u8
@@ -377,31 +374,6 @@ http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6880/index.m3u8
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6879/index.m3u8
 
 
-
-
-#EXTINF:-1 group-title="Sinema", beIN Movies Stars
-https://tinyurl.com/5ect5tkj
-
-
-
-#EXTINF:-1 group-title="Sinema", beIN Movies Türk 
-https://tinyurl.com/mr7wfnzm
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="Sinema", DiziSmart Premium 
-http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6802/index.m3u8
-
-
-#EXTINF:-1 group-title="Sinema", DiziSmart Max 
-https://tinyurl.com/5n7txspm
-
-
-
 #EXTINF:-1 group-title="Sinema", Sinema TV 
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6806/index.m3u8
 
@@ -411,16 +383,6 @@ http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6812/index.m3u8
 
 #EXTINF:-1 group-title="Sinema", Movie Smart Turk 
 http://985b6ca5.ottrast.com/iptv/9EKDSB2PZKMMW77EU9XLL5B9/6807/index.m3u8
-
-
-
-#EXTINF:-1 group-title="Sinema", Movie Smart Classic 
-https://tinyurl.com/44eetvrj
-
-
-
-#EXTINF:-1 group-title="Sinema", Fix Cinema Yeşilçam 
-https://Playtv-dproxy.hf.space/proxy/m3u?url=https://vavoo.to/play/4110861662/index.m3u8
 
 
 #EXTINF:1 group-title="Haber", Sözcü 
