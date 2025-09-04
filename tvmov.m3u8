@@ -176,20 +176,6 @@ http://212.102.60.231/NBA_TV/index.m3u8
 
 
 
-#EXTINF:-1, group-title="Spor Özel", bein sports 1
-https://bs.arectv33.sbs/static/bs1.m3u8
-
-#EXTINF:-1, group-title="Spor Özel", bein sports 3
-https://bs.arectv33.sbs/static/bs3.m3u8
-
-#EXTINF:-1, group-title="Spor Özel", bein sports 4
-https://bs.arectv33.sbs/static/bs4.m3u8
-
-#EXTINF:-1, group-title="Spor Özel", bein sports  5
-https://bs.arectv33.sbs/static/bs5.m3u8
-
-#EXTINF:-1, group-title="Spor Özel", smart 1
-https://tv.arectv34.sbs/live/smart1.m3u8
 
 
 #EXTINF:-1 tvg-name="Tabii Spor" tvg-language="Turkish" tvg-country="TR" tvg-id="TabiiSpor.tr" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w500/43023.jpeg" group-title="TabiiSpor",Tabii Spor
