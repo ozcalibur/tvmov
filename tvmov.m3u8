@@ -514,9 +514,6 @@ https://atomic.streamnet.ro/atomictv.m3u8
 #EXTINF:-1 tvg-id="Digi24.ro" status="timeout" group-title="Romania",Digi 24
 https://edge-ar.rcs-rds.ro/digi24ar/hd.m3u8
 
-#EXTINF:-1 tvg-id="KanalDRomania.ro" group-title="Romania",Kanal D Romania (540p)
-https://stream1.kanald.ro/iphone/knd-live.m3u8
-
 #EXTINF:-1 tvg-id="LightChannel.ro" status="timeout" group-title="Romania",Light Channel (480p) [Not 24/7]
 http://streamer1.streamhost.org:1935/salive/GMIlcbgM/playlist.m3u8
 
